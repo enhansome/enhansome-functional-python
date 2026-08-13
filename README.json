@@ -48,7 +48,7 @@
             "last_commit": "2026-08-12T13:29:12Z",
             "owner": "more-itertools",
             "repo": "more-itertools",
-            "stars": 4087
+            "stars": 4088
           }
         },
         {
@@ -311,7 +311,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:11:50Z",
+            "last_commit": "2026-08-13T15:08:47Z",
             "owner": "OutSquareCapital",
             "repo": "pyochain",
             "stars": 65
@@ -401,10 +401,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:17:17Z",
+            "last_commit": "2026-08-13T14:13:31Z",
             "owner": "dry-python",
             "repo": "returns",
-            "stars": 4345
+            "stars": 4346
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2026-01-31T05:46:07Z",
             "owner": "tobgu",
             "repo": "pyrsistent",
-            "stars": 2195
+            "stars": 2196
           }
         },
         {
@@ -969,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:57:46.027Z",
+    "last_updated": "2026-08-13T15:13:32.852Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
     "enhanced_repository": "enhansome/enhansome-functional-python",

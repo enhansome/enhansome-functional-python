@@ -95,7 +95,7 @@
 #### General
 
 * [toolz](https://github.com/pytoolz/toolz) ⭐ 5,151 | 🐛 135 | 🌐 Python | 📅 2026-01-01 ★5150 - "A functional standard library for Python".
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,087 | 🐛 8 | 🌐 Python | 📅 2026-08-12 ★4077 - "More routines for operating on iterables, beyond itertools".
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,088 | 🐛 8 | 🌐 Python | 📅 2026-08-12 ★4077 - "More routines for operating on iterables, beyond itertools".
 * [funcy](https://github.com/suor/funcy) ⭐ 3,509 | 🐛 15 | 🌐 Python | 📅 2026-04-19 ★3505 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,368 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3374 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
 * [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,488 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2487 - "Python library for functional programming with collections in a data pipeline style".
@@ -123,7 +123,7 @@
 
 #### Return types
 
-* [returns](https://github.com/dry-python/returns) ⭐ 4,345 | 🐛 82 | 🌐 Python | 📅 2026-08-12 ★4309 - "Make your functions return something meaningful, typed, and safe!"
+* [returns](https://github.com/dry-python/returns) ⭐ 4,346 | 🐛 83 | 🌐 Python | 📅 2026-08-13 ★4309 - "Make your functions return something meaningful, typed, and safe!"
 * [result](https://github.com/rustedpy/result) ⚠️ Archived ★1693 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
 * [Option](https://github.com/MaT1g3R/option) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2024-01-01 ★103 - Rust-like Option and Result types in Python.
 * [Meiga](https://github.com/alice-biometrics/meiga) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2024-10-22 ★82 - A simple, typed and monad-based Result type for Python.
@@ -132,7 +132,7 @@
 
 #### Immutable / persistent data structures
 
-* [Pyrsistent](https://github.com/tobgu/pyrsistent) ⭐ 2,195 | 🐛 37 | 🌐 Python | 📅 2026-01-31 ★2186 - "Persistent/Immutable/Functional data structures for Python".
+* [Pyrsistent](https://github.com/tobgu/pyrsistent) ⭐ 2,196 | 🐛 37 | 🌐 Python | 📅 2026-01-31 ★2186 - "Persistent/Immutable/Functional data structures for Python".
 * [Immutables](https://github.com/MagicStack/immutables) ⭐ 1,204 | 🐛 12 | 🌐 C | 📅 2025-05-20 ★1205 - "An immutable mapping type for Python."
 
 Dead projects:
