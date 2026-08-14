@@ -90,7 +90,7 @@
             "last_commit": "2025-03-13T23:26:42Z",
             "owner": "EntilZha",
             "repo": "PyFunctional",
-            "stars": 2488
+            "stars": 2489
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2025-03-11T22:18:47Z",
             "owner": "dbrattli",
             "repo": "Expression",
-            "stars": 765
+            "stars": 766
           }
         },
         {
@@ -269,7 +269,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T17:03:43Z",
+            "last_commit": "2026-08-14T08:39:17Z",
             "owner": "Technologicat",
             "repo": "unpythonic",
             "stars": 105
@@ -311,7 +311,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:08:47Z",
+            "last_commit": "2026-08-14T14:14:28Z",
             "owner": "OutSquareCapital",
             "repo": "pyochain",
             "stars": 65
@@ -401,7 +401,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:13:31Z",
+            "last_commit": "2026-08-14T14:13:36Z",
             "owner": "dry-python",
             "repo": "returns",
             "stars": 4346
@@ -672,7 +672,7 @@
             "last_commit": "2026-07-17T18:49:45Z",
             "owner": "mahmoud",
             "repo": "glom",
-            "stars": 2161
+            "stars": 2163
           }
         },
         {
@@ -933,7 +933,7 @@
             "last_commit": "2025-08-26T14:04:41Z",
             "owner": "pycket",
             "repo": "pycket",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -969,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:13:32.852Z",
+    "last_updated": "2026-08-14T15:06:27.955Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
     "enhanced_repository": "enhansome/enhansome-functional-python",
