@@ -143,7 +143,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T12:17:09Z",
+            "last_commit": "2026-08-15T17:15:35Z",
             "owner": "dbrattli",
             "repo": "Expression",
             "stars": 766
@@ -269,7 +269,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:39:17Z",
+            "last_commit": "2026-08-16T11:58:42Z",
             "owner": "Technologicat",
             "repo": "unpythonic",
             "stars": 105
@@ -311,7 +311,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:28:48Z",
+            "last_commit": "2026-08-16T13:40:14Z",
             "owner": "OutSquareCapital",
             "repo": "pyochain",
             "stars": 65
@@ -919,7 +919,7 @@
             "last_commit": "2020-06-20T12:21:52Z",
             "owner": "pyos",
             "repo": "dg",
-            "stars": 579
+            "stars": 577
           }
         },
         {
@@ -969,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:37:11.113Z",
+    "last_updated": "2026-08-16T14:36:46.896Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
     "enhanced_repository": "enhansome/enhansome-functional-python",
