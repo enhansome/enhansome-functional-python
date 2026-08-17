@@ -96,13 +96,13 @@
 
 * [toolz](https://github.com/pytoolz/toolz) ⭐ 5,151 | 🐛 135 | 🌐 Python | 📅 2026-01-01 ★5150 - "A functional standard library for Python".
 * [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,087 | 🐛 7 | 🌐 Python | 📅 2026-08-12 ★4077 - "More routines for operating on iterables, beyond itertools".
-* [funcy](https://github.com/suor/funcy) ⭐ 3,509 | 🐛 15 | 🌐 Python | 📅 2026-04-19 ★3505 - "A fancy and practical functional tools".
+* [funcy](https://github.com/suor/funcy) ⭐ 3,509 | 🐛 15 | 🌐 Python | 📅 2026-08-17 ★3505 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,368 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3374 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
 * [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,490 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2487 - "Python library for functional programming with collections in a data pipeline style".
 * [Pipe](https://github.com/JulienPalard/Pipe) ⭐ 2,106 | 🐛 16 | 🌐 Python | 📅 2025-03-23 ★2103 - "A Python library to use infix notation in Python".
 * [Pydash](https://github.com/dgilland/pydash) ⭐ 1,450 | 🐛 7 | 🌐 Python | 📅 2026-07-26 ★1443 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 * [hask](https://github.com/billpmurphy/hask) ⭐ 877 | 🐛 13 | 🌐 Python | 📅 2018-08-08 ★876 - "Haskell language features and standard libraries in pure Python".
-* [Expression](https://github.com/cognitedata/Expression) ⭐ 766 | 🐛 5 | 🌐 Python | 📅 2026-08-15 ★755 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
+* [Expression](https://github.com/cognitedata/Expression) ⭐ 766 | 🐛 5 | 🌐 Python | 📅 2026-08-17 ★755 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
 * [OSlash](https://github.com/dbrattli/oslash) ⭐ 756 | 🐛 4 | 🌐 Python | 📅 2025-11-17 ★748 - "Functors, Applicatives, And Monads in Python".
 * [Effect](https://github.com/python-effect/effect) ⭐ 386 | 🐛 11 | 🌐 Python | 📅 2022-06-26 ★384 - "Effect isolation in Python, to facilitate more purely functional code".
 * [Underscore.py](https://github.com/serkanyersen/underscore.py) ⭐ 291 | 🐛 13 | 🌐 Python | 📅 2023-01-02 ★292 - "A Python port of excellent javascript library underscore.js".
@@ -111,7 +111,7 @@
 * [Flupy](https://github.com/olirice/flupy) ⭐ 195 | 🐛 0 | 🌐 Python | 📅 2026-07-26 ★195 - Implements a fluent interface for operating on python iterables.
 * [pfun](https://github.com/suned/pfun) ⭐ 156 | 🐛 14 | 🌐 Python | 📅 2023-11-20 ★157 - "Pure functional programming in python".
 * [Phi](https://github.com/cgarciae/phi) ⭐ 136 | 🐛 1 | 🌐 Python | 📅 2018-08-13 ★136 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
-* [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 105 | 🐛 17 | 🌐 Python | 📅 2026-08-16 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
+* [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 105 | 🐛 17 | 🌐 Python | 📅 2026-08-17 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
 * [ziopy](https://github.com/miiohio/ziopy) ⭐ 86 | 🐛 2 | 🌐 Python | 📅 2023-11-15 ★86 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 * [katharos](https://github.com/kamalfarahani/katharos) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-08-08 ★32 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
 * [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 65 | 🐛 15 | 🌐 Python | 📅 2026-08-16 ★59 - "Iterator, Result and Option written in Rust, for Python"
@@ -132,7 +132,7 @@
 
 #### Immutable / persistent data structures
 
-* [Pyrsistent](https://github.com/tobgu/pyrsistent) ⭐ 2,196 | 🐛 37 | 🌐 Python | 📅 2026-01-31 ★2186 - "Persistent/Immutable/Functional data structures for Python".
+* [Pyrsistent](https://github.com/tobgu/pyrsistent) ⭐ 2,197 | 🐛 38 | 🌐 Python | 📅 2026-01-31 ★2186 - "Persistent/Immutable/Functional data structures for Python".
 * [Immutables](https://github.com/MagicStack/immutables) ⭐ 1,204 | 🐛 12 | 🌐 C | 📅 2025-05-20 ★1205 - "An immutable mapping type for Python."
 
 Dead projects:
@@ -188,7 +188,7 @@ Functional programming languages that are not Python but are related to the Pyth
 
 #### Active languages
 
-* [Hy](https://github.com/hylang/hy) ⭐ 5,440 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
+* [Hy](https://github.com/hylang/hy) ⭐ 5,436 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
 * [Coconut](https://github.com/evhub/coconut) ⭐ 4,349 | 🐛 90 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 476 | 🐛 46 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
@@ -202,8 +202,8 @@ Functional programming languages that are not Python but are related to the Pyth
 * [Arza](https://github.com/gloryofrobots/arza) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2018-05-04 ★4 - "Arza is a functional programming language that compiles to Python. It is a statically typed language with type inference and type classes."
 * [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html) and [(An ((Even Better) Lisp) Interpreter (in Python))](http://norvig.com/lispy2.html) - a couple of famous articles by Peter Norvig.
 
-[More languages that compile to Python](https://github.com/vindarel/languages-that-compile-to-python) ⭐ 282 | 🐛 3 | 📅 2024-02-06.
+[More languages that compile to Python](https://github.com/vindarel/languages-that-compile-to-python) ⭐ 283 | 🐛 3 | 📅 2024-02-06.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
