@@ -48,7 +48,7 @@
             "last_commit": "2026-08-12T13:29:12Z",
             "owner": "more-itertools",
             "repo": "more-itertools",
-            "stars": 4087
+            "stars": 4089
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-26T21:54:14Z",
             "owner": "dgilland",
             "repo": "pydash",
-            "stars": 1450
+            "stars": 1449
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-08-17T05:47:12Z",
             "owner": "dbrattli",
             "repo": "Expression",
-            "stars": 766
+            "stars": 767
           }
         },
         {
@@ -269,7 +269,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T14:07:09Z",
+            "last_commit": "2026-08-18T06:46:42Z",
             "owner": "Technologicat",
             "repo": "unpythonic",
             "stars": 105
@@ -311,7 +311,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:40:14Z",
+            "last_commit": "2026-08-17T23:53:33Z",
             "owner": "OutSquareCapital",
             "repo": "pyochain",
             "stars": 65
@@ -401,10 +401,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T06:24:06Z",
+            "last_commit": "2026-08-18T14:40:53Z",
             "owner": "dry-python",
             "repo": "returns",
-            "stars": 4347
+            "stars": 4349
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2025-01-16T12:13:52Z",
             "owner": "santinic",
             "repo": "pampy",
-            "stars": 3526
+            "stars": 3525
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-15T08:17:42Z",
             "owner": "ReactiveX",
             "repo": "RxPY",
-            "stars": 5019
+            "stars": 5018
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-07-17T18:49:45Z",
             "owner": "mahmoud",
             "repo": "glom",
-            "stars": 2163
+            "stars": 2162
           }
         },
         {
@@ -843,7 +843,7 @@
             "last_commit": "2026-07-31T17:41:02Z",
             "owner": "hylang",
             "repo": "hy",
-            "stars": 5436
+            "stars": 5434
           }
         },
         {
@@ -857,7 +857,7 @@
             "last_commit": "2026-02-16T05:03:23Z",
             "owner": "evhub",
             "repo": "coconut",
-            "stars": 4349
+            "stars": 4347
           }
         },
         {
@@ -871,7 +871,7 @@
             "last_commit": "2026-08-02T02:35:36Z",
             "owner": "basilisp-lang",
             "repo": "basilisp",
-            "stars": 476
+            "stars": 477
           }
         }
       ],
@@ -969,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:43:12.872Z",
+    "last_updated": "2026-08-18T14:51:27.612Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
     "enhanced_repository": "enhansome/enhansome-functional-python",
