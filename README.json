@@ -316,7 +316,7 @@
                     "archived": false,
                     "id": 1012160857,
                     "language": "Python",
-                    "last_commit": "2026-08-19T12:19:30Z",
+                    "last_commit": "2026-08-19T13:31:34Z",
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 65
@@ -1097,7 +1097,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:17.406Z",
+    "last_updated": "2026-08-19T14:52:17.693Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_id": 76450431,
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
