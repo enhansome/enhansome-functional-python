@@ -79,7 +79,7 @@
                     "last_commit": "2025-03-13T23:26:42Z",
                     "owner": "EntilZha",
                     "repo": "PyFunctional",
-                    "stars": 2489
+                    "stars": 2488
                   }
                 },
                 {
@@ -94,7 +94,7 @@
                     "last_commit": "2025-03-23T18:09:06Z",
                     "owner": "JulienPalard",
                     "repo": "Pipe",
-                    "stars": 2107
+                    "stars": 2108
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2026-07-26T21:54:14Z",
                     "owner": "dgilland",
                     "repo": "pydash",
-                    "stars": 1449
+                    "stars": 1448
                   }
                 },
                 {
@@ -124,7 +124,7 @@
                     "last_commit": "2018-08-08T16:03:05Z",
                     "owner": "billpmurphy",
                     "repo": "hask",
-                    "stars": 877
+                    "stars": 876
                   }
                 },
                 {
@@ -139,7 +139,7 @@
                     "last_commit": "2026-08-19T16:36:41Z",
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 770
+                    "stars": 768
                   }
                 },
                 {
@@ -316,10 +316,10 @@
                     "archived": false,
                     "id": 1012160857,
                     "language": "Python",
-                    "last_commit": "2026-08-20T13:04:45Z",
+                    "last_commit": "2026-08-21T13:11:50Z",
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
-                    "stars": 65
+                    "stars": 67
                   }
                 },
                 {
@@ -413,10 +413,10 @@
                     "archived": false,
                     "id": 167689891,
                     "language": "Python",
-                    "last_commit": "2026-08-20T14:53:00Z",
+                    "last_commit": "2026-08-21T14:36:52Z",
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4351
+                    "stars": 4352
                   }
                 },
                 {
@@ -610,7 +610,7 @@
                     "last_commit": "2025-01-16T12:13:52Z",
                     "owner": "santinic",
                     "repo": "pampy",
-                    "stars": 3525
+                    "stars": 3524
                   }
                 },
                 {
@@ -781,7 +781,7 @@
                     "last_commit": "2023-11-15T16:29:31Z",
                     "owner": "ingolemo",
                     "repo": "python-lenses",
-                    "stars": 339
+                    "stars": 337
                   }
                 }
               ],
@@ -893,7 +893,7 @@
                     "last_commit": "2025-11-24T22:46:53Z",
                     "owner": "thejaminator",
                     "repo": "slist",
-                    "stars": 13
+                    "stars": 12
                   }
                 },
                 {
@@ -1097,7 +1097,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:53:50.635Z",
+    "last_updated": "2026-08-21T14:52:31.159Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_id": 76450431,
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
