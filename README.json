@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-12T13:29:12Z",
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4089
+                    "stars": 4090
                   }
                 },
                 {
@@ -106,7 +106,7 @@
                     "archived": false,
                     "id": 10047126,
                     "language": "Python",
-                    "last_commit": "2026-07-26T21:54:14Z",
+                    "last_commit": "2026-08-22T01:31:57Z",
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1448
@@ -139,7 +139,7 @@
                     "last_commit": "2026-08-19T16:36:41Z",
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 768
+                    "stars": 767
                   }
                 },
                 {
@@ -301,7 +301,7 @@
                     "archived": false,
                     "id": 1069680821,
                     "language": "Python",
-                    "last_commit": "2026-08-08T17:29:34Z",
+                    "last_commit": "2026-08-22T11:43:10Z",
                     "owner": "kamalfarahani",
                     "repo": "katharos",
                     "stars": 75
@@ -316,7 +316,7 @@
                     "archived": false,
                     "id": 1012160857,
                     "language": "Python",
-                    "last_commit": "2026-08-21T13:11:50Z",
+                    "last_commit": "2026-08-22T14:24:36Z",
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 67
@@ -766,7 +766,7 @@
                     "last_commit": "2026-07-17T18:49:45Z",
                     "owner": "mahmoud",
                     "repo": "glom",
-                    "stars": 2162
+                    "stars": 2163
                   }
                 },
                 {
@@ -1097,7 +1097,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:52:31.159Z",
+    "last_updated": "2026-08-22T14:36:30.175Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_id": 76450431,
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
