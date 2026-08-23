@@ -19,7 +19,7 @@
                     "last_commit": "2026-01-01T18:01:22Z",
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5151
+                    "stars": 5152
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-12T13:29:12Z",
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4090
+                    "stars": 4089
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2022-08-30T14:08:21Z",
                     "owner": "kachayev",
                     "repo": "fn.py",
-                    "stars": 3368
+                    "stars": 3369
                   }
                 },
                 {
@@ -124,7 +124,7 @@
                     "last_commit": "2018-08-08T16:03:05Z",
                     "owner": "billpmurphy",
                     "repo": "hask",
-                    "stars": 876
+                    "stars": 875
                   }
                 },
                 {
@@ -316,7 +316,7 @@
                     "archived": false,
                     "id": 1012160857,
                     "language": "Python",
-                    "last_commit": "2026-08-22T14:24:36Z",
+                    "last_commit": "2026-08-23T14:16:52Z",
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 67
@@ -513,7 +513,7 @@
                     "last_commit": "2026-01-31T05:46:07Z",
                     "owner": "tobgu",
                     "repo": "pyrsistent",
-                    "stars": 2197
+                    "stars": 2198
                   }
                 },
                 {
@@ -952,7 +952,7 @@
                     "last_commit": "2026-07-31T17:41:02Z",
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5434
+                    "stars": 5435
                   }
                 },
                 {
@@ -1034,7 +1034,7 @@
                     "last_commit": "2020-06-20T12:21:52Z",
                     "owner": "pyos",
                     "repo": "dg",
-                    "stars": 577
+                    "stars": 576
                   }
                 },
                 {
@@ -1097,7 +1097,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:36:30.175Z",
+    "last_updated": "2026-08-23T14:37:01.483Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_id": 76450431,
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
