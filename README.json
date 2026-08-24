@@ -316,7 +316,7 @@
                     "archived": false,
                     "id": 1012160857,
                     "language": "Python",
-                    "last_commit": "2026-08-23T14:16:52Z",
+                    "last_commit": "2026-08-24T13:34:56Z",
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 67
@@ -416,7 +416,7 @@
                     "last_commit": "2026-08-21T14:36:52Z",
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4352
+                    "stars": 4354
                   }
                 },
                 {
@@ -711,7 +711,7 @@
                     "archived": false,
                     "id": 8946089,
                     "language": "Python",
-                    "last_commit": "2026-08-15T08:17:42Z",
+                    "last_commit": "2026-08-24T03:08:15Z",
                     "owner": "ReactiveX",
                     "repo": "RxPY",
                     "stars": 5018
@@ -1081,9 +1081,24 @@
                     "repo": "arza",
                     "stars": 4
                   }
+                },
+                {
+                  "node_type": "item",
+                  "title": "More languages that compile to Python",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 61726783,
+                    "language": null,
+                    "last_commit": "2024-02-06T11:34:34Z",
+                    "owner": "vindarel",
+                    "repo": "languages-that-compile-to-python",
+                    "stars": 283
+                  }
                 }
               ],
-              "description": "More languages that compile to Python.",
+              "description": null,
               "node_type": "group",
               "title": "Dead languages"
             }
@@ -1097,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:37:01.483Z",
+    "last_updated": "2026-08-24T14:01:56.215Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_id": 76450431,
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
