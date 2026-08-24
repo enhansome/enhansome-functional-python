@@ -123,7 +123,7 @@
 
 #### Return types
 
-* [returns](https://github.com/dry-python/returns) ⭐ 4,354 | 🐛 81 | 🌐 Python | 📅 2026-08-21 ★4309 - "Make your functions return something meaningful, typed, and safe!"
+* [returns](https://github.com/dry-python/returns) ⭐ 4,354 | 🐛 82 | 🌐 Python | 📅 2026-08-24 ★4309 - "Make your functions return something meaningful, typed, and safe!"
 * [result](https://github.com/rustedpy/result) ⚠️ Archived ★1693 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
 * [Option](https://github.com/MaT1g3R/option) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2024-01-01 ★103 - Rust-like Option and Result types in Python.
 * [Meiga](https://github.com/alice-biometrics/meiga) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2024-10-22 ★82 - A simple, typed and monad-based Result type for Python.

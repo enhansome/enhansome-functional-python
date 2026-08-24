@@ -316,7 +316,7 @@
                     "archived": false,
                     "id": 1012160857,
                     "language": "Python",
-                    "last_commit": "2026-08-24T13:34:56Z",
+                    "last_commit": "2026-08-24T14:18:14Z",
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 67
@@ -413,7 +413,7 @@
                     "archived": false,
                     "id": 167689891,
                     "language": "Python",
-                    "last_commit": "2026-08-21T14:36:52Z",
+                    "last_commit": "2026-08-24T14:48:37Z",
                     "owner": "dry-python",
                     "repo": "returns",
                     "stars": 4354
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:56.215Z",
+    "last_updated": "2026-08-24T14:58:54.164Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_id": 76450431,
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
