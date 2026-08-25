@@ -139,7 +139,7 @@
                     "last_commit": "2026-08-19T16:36:41Z",
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 767
+                    "stars": 768
                   }
                 },
                 {
@@ -271,7 +271,7 @@
                     "archived": false,
                     "id": 142169961,
                     "language": "Python",
-                    "last_commit": "2026-08-18T06:46:42Z",
+                    "last_commit": "2026-08-25T12:17:32Z",
                     "owner": "Technologicat",
                     "repo": "unpythonic",
                     "stars": 105
@@ -301,7 +301,7 @@
                     "archived": false,
                     "id": 1069680821,
                     "language": "Python",
-                    "last_commit": "2026-08-22T11:43:10Z",
+                    "last_commit": "2026-08-25T14:15:06Z",
                     "owner": "kamalfarahani",
                     "repo": "katharos",
                     "stars": 75
@@ -316,7 +316,7 @@
                     "archived": false,
                     "id": 1012160857,
                     "language": "Python",
-                    "last_commit": "2026-08-25T01:10:10Z",
+                    "last_commit": "2026-08-25T08:59:35Z",
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 67
@@ -416,7 +416,7 @@
                     "last_commit": "2026-08-25T05:42:43Z",
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4354
+                    "stars": 4355
                   }
                 },
                 {
@@ -967,7 +967,7 @@
                     "last_commit": "2026-02-16T05:03:23Z",
                     "owner": "evhub",
                     "repo": "coconut",
-                    "stars": 4347
+                    "stars": 4348
                   }
                 },
                 {
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:00.175Z",
+    "last_updated": "2026-08-25T15:03:27.469Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_id": 76450431,
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
