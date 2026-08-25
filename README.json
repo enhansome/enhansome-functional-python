@@ -64,7 +64,7 @@
                     "last_commit": "2022-08-30T14:08:21Z",
                     "owner": "kachayev",
                     "repo": "fn.py",
-                    "stars": 3369
+                    "stars": 3368
                   }
                 },
                 {
@@ -316,7 +316,7 @@
                     "archived": false,
                     "id": 1012160857,
                     "language": "Python",
-                    "last_commit": "2026-08-24T14:18:14Z",
+                    "last_commit": "2026-08-25T01:10:10Z",
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 67
@@ -413,7 +413,7 @@
                     "archived": false,
                     "id": 167689891,
                     "language": "Python",
-                    "last_commit": "2026-08-24T14:48:37Z",
+                    "last_commit": "2026-08-25T05:42:43Z",
                     "owner": "dry-python",
                     "repo": "returns",
                     "stars": 4354
@@ -610,7 +610,7 @@
                     "last_commit": "2025-01-16T12:13:52Z",
                     "owner": "santinic",
                     "repo": "pampy",
-                    "stars": 3524
+                    "stars": 3523
                   }
                 },
                 {
@@ -714,7 +714,7 @@
                     "last_commit": "2026-08-24T03:08:15Z",
                     "owner": "ReactiveX",
                     "repo": "RxPY",
-                    "stars": 5018
+                    "stars": 5017
                   }
                 },
                 {
@@ -952,7 +952,7 @@
                     "last_commit": "2026-07-31T17:41:02Z",
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5435
+                    "stars": 5434
                   }
                 },
                 {
@@ -982,7 +982,7 @@
                     "last_commit": "2026-08-02T02:35:36Z",
                     "owner": "basilisp-lang",
                     "repo": "basilisp",
-                    "stars": 477
+                    "stars": 478
                   }
                 }
               ],
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:58:54.164Z",
+    "last_updated": "2026-08-25T05:55:00.175Z",
     "original_repository": "sfermigier/awesome-functional-python",
     "original_repository_id": 76450431,
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
