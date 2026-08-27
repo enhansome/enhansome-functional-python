@@ -114,7 +114,7 @@
 * [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 105 | 🐛 17 | 🌐 Python | 📅 2026-08-25 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
 * [ziopy](https://github.com/miiohio/ziopy) ⭐ 86 | 🐛 2 | 🌐 Python | 📅 2023-11-15 ★86 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 * [katharos](https://github.com/kamalfarahani/katharos) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-08-25 ★32 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
-* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 67 | 🐛 14 | 🌐 Python | 📅 2026-08-26 ★59 - "Iterator, Result and Option written in Rust, for Python"
+* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 67 | 🐛 14 | 🌐 Python | 📅 2026-08-27 ★59 - "Iterator, Result and Option written in Rust, for Python"
 * [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-04-13 ★36 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 * [pyeffects](https://github.com/vickumar1981/pyeffects) ⭐ 34 | 🐛 13 | 🌐 Python | 📅 2024-07-15 ★34 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 * [Compose](https://github.com/mentalisttraceur/python-compose) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-09-27 ★34 - The classic compose, with all the Pythonic features.
@@ -172,7 +172,7 @@ Note: Pattern matching is now a standard feature in [Python 3.10](https://www.py
 
 #### Other / specialized
 
-* [deal](https://github.com/orsinium/deal) ⭐ 903 | 🐛 8 | 🌐 Python | 📅 2025-11-30 ★899 - "Design by contract for Python with many validators support."
+* [deal](https://github.com/orsinium/deal) ⭐ 904 | 🐛 8 | 🌐 Python | 📅 2025-11-30 ★899 - "Design by contract for Python with many validators support."
 * [classes](https://github.com/dry-python/classes) ⭐ 731 | 🐛 37 | 🌐 Python | 📅 2024-12-17 ★730 - "Smart, pythonic, ad-hoc, typed polymorphism for Python."
 * [chainable](https://github.com/olirice/chainable) ⭐ 195 | 🐛 0 | 🌐 Python | 📅 2026-07-26 ★195 - "Method chaining built on generators".
 * [ADT](https://github.com/jspahrsummers/adt) ⚠️ Archived ★171 - Algebraic data types for Python
@@ -189,7 +189,7 @@ Functional programming languages that are not Python but are related to the Pyth
 #### Active languages
 
 * [Hy](https://github.com/hylang/hy) ⭐ 5,435 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
-* [Coconut](https://github.com/evhub/coconut) ⭐ 4,349 | 🐛 90 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
+* [Coconut](https://github.com/evhub/coconut) ⭐ 4,350 | 🐛 90 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 478 | 🐛 46 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
 #### Dead languages
