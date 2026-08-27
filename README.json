@@ -19,7 +19,7 @@
                     "last_commit": "2026-01-01T18:01:22Z",
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5153
+                    "stars": 5152
                   }
                 },
                 {
@@ -316,7 +316,7 @@
                     "archived": false,
                     "id": 1012160857,
                     "language": "Python",
-                    "last_commit": "2026-08-26T15:41:41Z",
+                    "last_commit": "2026-08-26T23:55:07Z",
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 67
@@ -416,7 +416,7 @@
                     "last_commit": "2026-08-25T05:42:43Z",
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4355
+                    "stars": 4356
                   }
                 },
                 {
@@ -431,7 +431,7 @@
                     "last_commit": "2026-06-25T13:36:00Z",
                     "owner": "rustedpy",
                     "repo": "result",
-                    "stars": 1680
+                    "stars": 1681
                   }
                 },
                 {
@@ -952,7 +952,7 @@
                     "last_commit": "2026-07-31T17:41:02Z",
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5434
+                    "stars": 5435
                   }
                 },
                 {
@@ -1112,9 +1112,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:53:33.758Z",
-    "original_repository": "sfermigier/awesome-functional-python",
-    "original_repository_id": 76450431,
+    "last_updated": "2026-08-27T11:41:00.913Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 76450431,
+      "language": null,
+      "last_commit": "2026-06-23T05:10:14Z",
+      "owner": "sfermigier",
+      "repo": "awesome-functional-python",
+      "stars": 2554
+    },
     "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
     "enhanced_repository": "enhansome/enhansome-functional-python",
     "enhanced_repository_description": null,
