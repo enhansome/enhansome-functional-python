@@ -95,7 +95,7 @@
 #### General
 
 * [toolz](https://github.com/pytoolz/toolz) ⭐ 5,152 | 🐛 138 | 🌐 Python | 📅 2026-01-01 ★5150 - "A functional standard library for Python".
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,088 | 🐛 8 | 🌐 Python | 📅 2026-08-12 ★4077 - "More routines for operating on iterables, beyond itertools".
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,088 | 🐛 10 | 🌐 Python | 📅 2026-08-12 ★4077 - "More routines for operating on iterables, beyond itertools".
 * [funcy](https://github.com/suor/funcy) ⭐ 3,510 | 🐛 15 | 🌐 Python | 📅 2026-08-17 ★3505 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,367 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3374 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
 * [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,488 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2487 - "Python library for functional programming with collections in a data pipeline style".
@@ -113,7 +113,7 @@
 * [Phi](https://github.com/cgarciae/phi) ⭐ 136 | 🐛 1 | 🌐 Python | 📅 2018-08-13 ★136 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
 * [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 105 | 🐛 17 | 🌐 Python | 📅 2026-08-25 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
 * [ziopy](https://github.com/miiohio/ziopy) ⭐ 86 | 🐛 2 | 🌐 Python | 📅 2023-11-15 ★86 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
-* [katharos](https://github.com/kamalfarahani/katharos) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-08-25 ★32 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
+* [katharos](https://github.com/kamalfarahani/katharos) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-08-29 ★32 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
 * [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 67 | 🐛 14 | 🌐 Python | 📅 2026-08-28 ★59 - "Iterator, Result and Option written in Rust, for Python"
 * [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-04-13 ★36 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 * [pyeffects](https://github.com/vickumar1981/pyeffects) ⭐ 34 | 🐛 13 | 🌐 Python | 📅 2024-07-15 ★34 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
@@ -123,7 +123,7 @@
 
 #### Return types
 
-* [returns](https://github.com/dry-python/returns) ⭐ 4,357 | 🐛 82 | 🌐 Python | 📅 2026-08-28 ★4309 - "Make your functions return something meaningful, typed, and safe!"
+* [returns](https://github.com/dry-python/returns) ⭐ 4,357 | 🐛 81 | 🌐 Python | 📅 2026-08-29 ★4309 - "Make your functions return something meaningful, typed, and safe!"
 * [result](https://github.com/rustedpy/result) ⚠️ Archived ★1693 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
 * [Option](https://github.com/MaT1g3R/option) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2024-01-01 ★103 - Rust-like Option and Result types in Python.
 * [Meiga](https://github.com/alice-biometrics/meiga) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2024-10-22 ★82 - A simple, typed and monad-based Result type for Python.
@@ -188,7 +188,7 @@ Functional programming languages that are not Python but are related to the Pyth
 
 #### Active languages
 
-* [Hy](https://github.com/hylang/hy) ⭐ 5,436 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
+* [Hy](https://github.com/hylang/hy) ⭐ 5,435 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
 * [Coconut](https://github.com/evhub/coconut) ⭐ 4,352 | 🐛 90 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 478 | 🐛 46 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
