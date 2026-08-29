@@ -189,7 +189,7 @@ Functional programming languages that are not Python but are related to the Pyth
 #### Active languages
 
 * [Hy](https://github.com/hylang/hy) ⭐ 5,436 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
-* [Coconut](https://github.com/evhub/coconut) ⭐ 4,351 | 🐛 90 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
+* [Coconut](https://github.com/evhub/coconut) ⭐ 4,352 | 🐛 90 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 478 | 🐛 46 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
 #### Dead languages
@@ -206,4 +206,4 @@ Functional programming languages that are not Python but are related to the Pyth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
