@@ -95,12 +95,12 @@
 #### General
 
 * [toolz](https://github.com/pytoolz/toolz) ⭐ 5,152 | 🐛 138 | 🌐 Python | 📅 2026-01-01 ★5150 - "A functional standard library for Python".
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,088 | 🐛 10 | 🌐 Python | 📅 2026-08-12 ★4077 - "More routines for operating on iterables, beyond itertools".
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,088 | 🐛 11 | 🌐 Python | 📅 2026-08-12 ★4077 - "More routines for operating on iterables, beyond itertools".
 * [funcy](https://github.com/suor/funcy) ⭐ 3,510 | 🐛 15 | 🌐 Python | 📅 2026-08-17 ★3505 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,367 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3374 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
 * [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,488 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2487 - "Python library for functional programming with collections in a data pipeline style".
 * [Pipe](https://github.com/JulienPalard/Pipe) ⭐ 2,108 | 🐛 16 | 🌐 Python | 📅 2025-03-23 ★2103 - "A Python library to use infix notation in Python".
-* [Pydash](https://github.com/dgilland/pydash) ⭐ 1,448 | 🐛 7 | 🌐 Python | 📅 2026-08-22 ★1443 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
+* [Pydash](https://github.com/dgilland/pydash) ⭐ 1,448 | 🐛 4 | 🌐 Python | 📅 2026-08-29 ★1443 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 * [hask](https://github.com/billpmurphy/hask) ⭐ 875 | 🐛 13 | 🌐 Python | 📅 2018-08-08 ★876 - "Haskell language features and standard libraries in pure Python".
 * [Expression](https://github.com/cognitedata/Expression) ⭐ 769 | 🐛 8 | 🌐 Python | 📅 2026-08-19 ★755 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
 * [OSlash](https://github.com/dbrattli/oslash) ⭐ 756 | 🐛 4 | 🌐 Python | 📅 2025-11-17 ★748 - "Functors, Applicatives, And Monads in Python".
@@ -147,7 +147,7 @@ Dead projects:
 
 Note: Pattern matching is now a standard feature in [Python 3.10](https://www.python.org/dev/peps/pep-0636/).
 
-* [pampy](https://github.com/santinic/pampy) ⭐ 3,523 | 🐛 23 | 🌐 Python | 📅 2025-01-16 ★3526 - "Pampy: The Pattern Matching for Python you always dreamed of."
+* [pampy](https://github.com/santinic/pampy) ⭐ 3,522 | 🐛 23 | 🌐 Python | 📅 2025-01-16 ★3526 - "Pampy: The Pattern Matching for Python you always dreamed of."
 * [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ⭐ 161 | 🐛 12 | 🌐 Python | 📅 2021-02-14 ★161 - "Python pattern matching like functional languages."
 * [apm](https://github.com/scravy/awesome-pattern-matching) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2023-03-29 ★113 - "Pattern Matching for Python 3.8+ in a simple, yet powerful, extensible manner."
 * [patmat](https://github.com/admk/patmat) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2016-05-23 ★29 - "Functional-style recursive pattern matching in Python. Crazy stuff."
@@ -190,7 +190,7 @@ Functional programming languages that are not Python but are related to the Pyth
 
 * [Hy](https://github.com/hylang/hy) ⭐ 5,435 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
 * [Coconut](https://github.com/evhub/coconut) ⭐ 4,352 | 🐛 90 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
-* [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 478 | 🐛 46 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
+* [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 478 | 🐛 47 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
 #### Dead languages
 
@@ -206,4 +206,4 @@ Functional programming languages that are not Python but are related to the Pyth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

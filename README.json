@@ -41,7 +41,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-12T13:29:12Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4088,
@@ -155,8 +155,8 @@
                     "id": 10047126,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-22T01:31:57Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-08-29T20:14:39Z",
+                    "open_issues": 4,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1448,
@@ -1047,7 +1047,7 @@
                     "open_issues": 23,
                     "owner": "santinic",
                     "repo": "pampy",
-                    "stars": 3523,
+                    "stars": 3522,
                     "topics": [
                       "functional",
                       "lisp-interpreter",
@@ -1695,7 +1695,7 @@
                     "language": "Python",
                     "license": "EPL-1.0",
                     "last_commit": "2026-08-02T02:35:36Z",
-                    "open_issues": 46,
+                    "open_issues": 47,
                     "owner": "basilisp-lang",
                     "repo": "basilisp",
                     "stars": 478,
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:43:08.499Z",
+    "last_updated": "2026-08-30T18:03:34.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
