@@ -23,7 +23,7 @@
                     "open_issues": 138,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5152,
+                    "stars": 5153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -41,7 +41,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-12T13:29:12Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4088,
@@ -65,7 +65,7 @@
                     "open_issues": 15,
                     "owner": "Suor",
                     "repo": "funcy",
-                    "stars": 3510,
+                    "stars": 3511,
                     "topics": [
                       "functional-programming",
                       "python",
@@ -203,7 +203,7 @@
                     "id": 298085065,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-19T16:36:41Z",
+                    "last_commit": "2026-08-31T05:03:20Z",
                     "open_issues": 8,
                     "owner": "dbrattli",
                     "repo": "Expression",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T23:41:59Z",
+                    "last_commit": "2026-08-31T17:46:45Z",
                     "open_issues": 14,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -713,7 +713,7 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-08-29T06:26:16Z",
+                    "last_commit": "2026-08-31T14:33:35Z",
                     "open_issues": 81,
                     "owner": "dry-python",
                     "repo": "returns",
@@ -1070,7 +1070,7 @@
                     "id": 13729643,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2021-02-14T19:57:56Z",
+                    "last_commit": "2026-08-31T06:29:47Z",
                     "open_issues": 12,
                     "owner": "grantjenks",
                     "repo": "python-pattern-matching",
@@ -1209,7 +1209,7 @@
                     "open_issues": 43,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
-                    "stars": 5018,
+                    "stars": 5017,
                     "topics": [
                       "python",
                       "reactive",
@@ -1293,7 +1293,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-17T18:49:45Z",
-                    "open_issues": 129,
+                    "open_issues": 130,
                     "owner": "mahmoud",
                     "repo": "glom",
                     "stars": 2163,
@@ -1367,7 +1367,7 @@
                     "open_issues": 8,
                     "owner": "life4",
                     "repo": "deal",
-                    "stars": 904,
+                    "stars": 905,
                     "topics": [
                       "contracts",
                       "contracts-programming",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:03:34.693Z",
+    "last_updated": "2026-08-31T20:02:28.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1911,7 +1911,7 @@
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
-      "stars": 2555,
+      "stars": 2556,
       "topics": [
         "awesome",
         "functional-programming",
