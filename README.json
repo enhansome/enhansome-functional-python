@@ -40,11 +40,11 @@
                     "id": 4144530,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-12T13:29:12Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-02T16:04:43Z",
+                    "open_issues": 10,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4088,
+                    "stars": 4089,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -207,7 +207,7 @@
                     "open_issues": 8,
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 769,
+                    "stars": 771,
                     "topics": [
                       "fsharp",
                       "functional-programming",
@@ -541,11 +541,11 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T17:18:37Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-09-02T17:37:15Z",
+                    "open_issues": 15,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": [
                       "functional-programming",
                       "iterator",
@@ -717,7 +717,7 @@
                     "open_issues": 81,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4357,
+                    "stars": 4356,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -923,7 +923,7 @@
                     "open_issues": 12,
                     "owner": "MagicStack",
                     "repo": "immutables",
-                    "stars": 1204,
+                    "stars": 1203,
                     "topics": [
                       "frozen",
                       "hamt",
@@ -1047,7 +1047,7 @@
                     "open_issues": 23,
                     "owner": "santinic",
                     "repo": "pampy",
-                    "stars": 3522,
+                    "stars": 3521,
                     "topics": [
                       "functional",
                       "lisp-interpreter",
@@ -1367,7 +1367,7 @@
                     "open_issues": 8,
                     "owner": "life4",
                     "repo": "deal",
-                    "stars": 907,
+                    "stars": 908,
                     "topics": [
                       "contracts",
                       "contracts-programming",
@@ -1409,7 +1409,7 @@
                     "open_issues": 37,
                     "owner": "dry-python",
                     "repo": "classes",
-                    "stars": 731,
+                    "stars": 730,
                     "topics": [
                       "fp",
                       "mypy",
@@ -1666,7 +1666,7 @@
                     "open_issues": 90,
                     "owner": "evhub",
                     "repo": "coconut",
-                    "stars": 4352,
+                    "stars": 4354,
                     "topics": [
                       "coconut",
                       "compiler",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:48:36.536Z",
+    "last_updated": "2026-09-02T17:53:21.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1911,7 +1911,7 @@
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
-      "stars": 2557,
+      "stars": 2558,
       "topics": [
         "awesome",
         "functional-programming",
