@@ -40,7 +40,7 @@
                     "id": 4144530,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-02T16:04:43Z",
+                    "last_commit": "2026-09-03T15:34:38Z",
                     "open_issues": 10,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
@@ -207,7 +207,7 @@
                     "open_issues": 8,
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 771,
+                    "stars": 772,
                     "topics": [
                       "fsharp",
                       "functional-programming",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-02T17:37:15Z",
+                    "last_commit": "2026-09-03T16:11:34Z",
                     "open_issues": 15,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -717,7 +717,7 @@
                     "open_issues": 81,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4356,
+                    "stars": 4357,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -1367,7 +1367,7 @@
                     "open_issues": 8,
                     "owner": "life4",
                     "repo": "deal",
-                    "stars": 908,
+                    "stars": 909,
                     "topics": [
                       "contracts",
                       "contracts-programming",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:53:21.820Z",
+    "last_updated": "2026-09-03T17:50:12.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
