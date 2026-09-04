@@ -41,7 +41,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-03T15:34:38Z",
-                    "open_issues": 10,
+                    "open_issues": 13,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4089,
@@ -207,7 +207,7 @@
                     "open_issues": 8,
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 772,
+                    "stars": 774,
                     "topics": [
                       "fsharp",
                       "functional-programming",
@@ -541,11 +541,11 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T16:11:34Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-09-04T12:17:51Z",
+                    "open_issues": 14,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
-                    "stars": 68,
+                    "stars": 70,
                     "topics": [
                       "functional-programming",
                       "iterator",
@@ -713,7 +713,7 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-01T09:35:08Z",
+                    "last_commit": "2026-09-04T14:49:47Z",
                     "open_issues": 81,
                     "owner": "dry-python",
                     "repo": "returns",
@@ -1666,7 +1666,7 @@
                     "open_issues": 90,
                     "owner": "evhub",
                     "repo": "coconut",
-                    "stars": 4354,
+                    "stars": 4355,
                     "topics": [
                       "coconut",
                       "compiler",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:50:12.119Z",
+    "last_updated": "2026-09-04T17:35:24.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
