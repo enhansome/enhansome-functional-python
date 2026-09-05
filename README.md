@@ -95,14 +95,14 @@
 #### General
 
 * [toolz](https://github.com/pytoolz/toolz) ⭐ 5,154 | 🐛 138 | 🌐 Python | 📅 2026-01-01 ★5150 - "A functional standard library for Python".
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,089 | 🐛 13 | 🌐 Python | 📅 2026-09-03 ★4077 - "More routines for operating on iterables, beyond itertools".
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,089 | 🐛 11 | 🌐 Python | 📅 2026-09-04 ★4077 - "More routines for operating on iterables, beyond itertools".
 * [funcy](https://github.com/suor/funcy) ⭐ 3,511 | 🐛 15 | 🌐 Python | 📅 2026-08-17 ★3505 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,367 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3374 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
 * [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,488 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2487 - "Python library for functional programming with collections in a data pipeline style".
 * [Pipe](https://github.com/JulienPalard/Pipe) ⭐ 2,108 | 🐛 16 | 🌐 Python | 📅 2025-03-23 ★2103 - "A Python library to use infix notation in Python".
 * [Pydash](https://github.com/dgilland/pydash) ⭐ 1,448 | 🐛 4 | 🌐 Python | 📅 2026-08-29 ★1443 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 * [hask](https://github.com/billpmurphy/hask) ⭐ 875 | 🐛 13 | 🌐 Python | 📅 2018-08-08 ★876 - "Haskell language features and standard libraries in pure Python".
-* [Expression](https://github.com/cognitedata/Expression) ⭐ 774 | 🐛 8 | 🌐 Python | 📅 2026-08-31 ★755 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
+* [Expression](https://github.com/cognitedata/Expression) ⭐ 775 | 🐛 8 | 🌐 Python | 📅 2026-08-31 ★755 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
 * [OSlash](https://github.com/dbrattli/oslash) ⭐ 756 | 🐛 4 | 🌐 Python | 📅 2025-11-17 ★748 - "Functors, Applicatives, And Monads in Python".
 * [Effect](https://github.com/python-effect/effect) ⭐ 387 | 🐛 11 | 🌐 Python | 📅 2022-06-26 ★384 - "Effect isolation in Python, to facilitate more purely functional code".
 * [Underscore.py](https://github.com/serkanyersen/underscore.py) ⭐ 291 | 🐛 13 | 🌐 Python | 📅 2023-01-02 ★292 - "A Python port of excellent javascript library underscore.js".
@@ -161,7 +161,7 @@ Note: Pattern matching is now a standard feature in [Python 3.10](https://www.py
 
 #### Support for reactive style
 
-* [RxPy](https://github.com/ReactiveX/RxPY) ⭐ 5,016 | 🐛 43 | 🌐 Python | 📅 2026-08-24 ★5015 - "Reactive Extensions for Python".
+* [RxPy](https://github.com/ReactiveX/RxPY) ⭐ 5,017 | 🐛 43 | 🌐 Python | 📅 2026-08-24 ★5015 - "Reactive Extensions for Python".
 * [broqer](https://github.com/semiversus/python-broqer) ⭐ 76 | 🐛 10 | 🌐 Python | 📅 2026-04-14 ★76 - "Library to operate with continuous streams of data in a reactive style"
 * [sodium-python](https://github.com/mode89/sodium-python) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-07-18 ★6 - "Python implementation of Sodium - Functional Reactive Programming (FRP) Library"
 
@@ -188,7 +188,7 @@ Functional programming languages that are not Python but are related to the Pyth
 
 #### Active languages
 
-* [Hy](https://github.com/hylang/hy) ⭐ 5,435 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
+* [Hy](https://github.com/hylang/hy) ⭐ 5,436 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
 * [Coconut](https://github.com/evhub/coconut) ⭐ 4,355 | 🐛 90 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 478 | 🐛 47 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
@@ -206,4 +206,4 @@ Functional programming languages that are not Python but are related to the Pyth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

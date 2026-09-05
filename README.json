@@ -40,8 +40,8 @@
                     "id": 4144530,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T15:34:38Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-09-04T19:14:50Z",
+                    "open_issues": 11,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4089,
@@ -207,7 +207,7 @@
                     "open_issues": 8,
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 774,
+                    "stars": 775,
                     "topics": [
                       "fsharp",
                       "functional-programming",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T12:17:51Z",
+                    "last_commit": "2026-09-04T20:51:27Z",
                     "open_issues": 14,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -1209,7 +1209,7 @@
                     "open_issues": 43,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
-                    "stars": 5016,
+                    "stars": 5017,
                     "topics": [
                       "python",
                       "reactive",
@@ -1638,7 +1638,7 @@
                     "open_issues": 9,
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5435,
+                    "stars": 5436,
                     "topics": [
                       "compiler",
                       "hy",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:35:24.510Z",
+    "last_updated": "2026-09-05T16:49:10.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
