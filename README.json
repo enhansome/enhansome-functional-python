@@ -23,7 +23,7 @@
                     "open_issues": 138,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5155,
+                    "stars": 5156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -40,11 +40,11 @@
                     "id": 4144530,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T21:23:11Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-09-08T01:11:17Z",
+                    "open_issues": 18,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4090,
+                    "stars": 4089,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -62,7 +62,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-17T01:46:47Z",
-                    "open_issues": 16,
+                    "open_issues": 19,
                     "owner": "Suor",
                     "repo": "funcy",
                     "stars": 3510,
@@ -156,7 +156,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-29T20:14:39Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1448,
@@ -261,7 +261,7 @@
                     "open_issues": 11,
                     "owner": "python-effect",
                     "repo": "effect",
-                    "stars": 387,
+                    "stars": 386,
                     "topics": [
                       "effects",
                       "free-monad",
@@ -342,7 +342,7 @@
                     "open_issues": 14,
                     "owner": "jasondelaat",
                     "repo": "pymonad",
-                    "stars": 213,
+                    "stars": 211,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -541,11 +541,11 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T18:02:01Z",
+                    "last_commit": "2026-09-08T17:47:17Z",
                     "open_issues": 14,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
-                    "stars": 71,
+                    "stars": 72,
                     "topics": [
                       "functional-programming",
                       "iterator",
@@ -713,11 +713,11 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-07T15:49:31Z",
+                    "last_commit": "2026-09-07T22:54:04Z",
                     "open_issues": 81,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4358,
+                    "stars": 4360,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -1292,11 +1292,11 @@
                     "id": 130011760,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-07-17T18:49:45Z",
-                    "open_issues": 132,
+                    "last_commit": "2026-09-08T09:19:05Z",
+                    "open_issues": 133,
                     "owner": "mahmoud",
                     "repo": "glom",
-                    "stars": 2163,
+                    "stars": 2164,
                     "topics": [
                       "apis",
                       "cli",
@@ -1730,7 +1730,7 @@
                     "open_issues": 55,
                     "owner": "pixie-lang",
                     "repo": "pixie",
-                    "stars": 2358,
+                    "stars": 2357,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:43:17.939Z",
+    "last_updated": "2026-09-08T17:56:31.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
