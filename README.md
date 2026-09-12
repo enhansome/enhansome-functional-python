@@ -95,12 +95,12 @@
 #### General
 
 * [toolz](https://github.com/pytoolz/toolz) ⭐ 5,156 | 🐛 138 | 🌐 Python | 📅 2026-01-01 ★5150 - "A functional standard library for Python".
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,090 | 🐛 17 | 🌐 Python | 📅 2026-09-10 ★4077 - "More routines for operating on iterables, beyond itertools".
-* [funcy](https://github.com/suor/funcy) ⭐ 3,508 | 🐛 12 | 🌐 Python | 📅 2026-09-10 ★3505 - "A fancy and practical functional tools".
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,089 | 🐛 19 | 🌐 Python | 📅 2026-09-10 ★4077 - "More routines for operating on iterables, beyond itertools".
+* [funcy](https://github.com/suor/funcy) ⭐ 3,508 | 🐛 15 | 🌐 Python | 📅 2026-09-10 ★3505 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,367 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3374 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
-* [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,487 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2487 - "Python library for functional programming with collections in a data pipeline style".
+* [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,486 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2487 - "Python library for functional programming with collections in a data pipeline style".
 * [Pipe](https://github.com/JulienPalard/Pipe) ⭐ 2,107 | 🐛 16 | 🌐 Python | 📅 2025-03-23 ★2103 - "A Python library to use infix notation in Python".
-* [Pydash](https://github.com/dgilland/pydash) ⭐ 1,448 | 🐛 9 | 🌐 Python | 📅 2026-08-29 ★1443 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
+* [Pydash](https://github.com/dgilland/pydash) ⭐ 1,448 | 🐛 11 | 🌐 Python | 📅 2026-08-29 ★1443 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 * [hask](https://github.com/billpmurphy/hask) ⭐ 875 | 🐛 13 | 🌐 Python | 📅 2018-08-08 ★876 - "Haskell language features and standard libraries in pure Python".
 * [Expression](https://github.com/cognitedata/Expression) ⭐ 775 | 🐛 7 | 🌐 Python | 📅 2026-09-07 ★755 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
 * [OSlash](https://github.com/dbrattli/oslash) ⭐ 756 | 🐛 4 | 🌐 Python | 📅 2025-11-17 ★748 - "Functors, Applicatives, And Monads in Python".
@@ -114,7 +114,7 @@
 * [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 105 | 🐛 17 | 🌐 Python | 📅 2026-08-25 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
 * [ziopy](https://github.com/miiohio/ziopy) ⭐ 86 | 🐛 2 | 🌐 Python | 📅 2023-11-15 ★86 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 * [katharos](https://github.com/kamalfarahani/katharos) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-09-06 ★32 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
-* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 73 | 🐛 14 | 🌐 Python | 📅 2026-09-11 ★59 - "Iterator, Result and Option written in Rust, for Python"
+* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 73 | 🐛 14 | 🌐 Python | 📅 2026-09-12 ★59 - "Iterator, Result and Option written in Rust, for Python"
 * [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-04-13 ★36 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 * [pyeffects](https://github.com/vickumar1981/pyeffects) ⭐ 34 | 🐛 13 | 🌐 Python | 📅 2024-07-15 ★34 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 * [Compose](https://github.com/mentalisttraceur/python-compose) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-09-27 ★34 - The classic compose, with all the Pythonic features.
@@ -123,7 +123,7 @@
 
 #### Return types
 
-* [returns](https://github.com/dry-python/returns) ⭐ 4,361 | 🐛 82 | 🌐 Python | 📅 2026-09-11 ★4309 - "Make your functions return something meaningful, typed, and safe!"
+* [returns](https://github.com/dry-python/returns) ⭐ 4,361 | 🐛 81 | 🌐 Python | 📅 2026-09-11 ★4309 - "Make your functions return something meaningful, typed, and safe!"
 * [result](https://github.com/rustedpy/result) ⚠️ Archived ★1693 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
 * [Option](https://github.com/MaT1g3R/option) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2024-01-01 ★103 - Rust-like Option and Result types in Python.
 * [Meiga](https://github.com/alice-biometrics/meiga) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2024-10-22 ★82 - A simple, typed and monad-based Result type for Python.
@@ -147,7 +147,7 @@ Dead projects:
 
 Note: Pattern matching is now a standard feature in [Python 3.10](https://www.python.org/dev/peps/pep-0636/).
 
-* [pampy](https://github.com/santinic/pampy) ⭐ 3,521 | 🐛 23 | 🌐 Python | 📅 2025-01-16 ★3526 - "Pampy: The Pattern Matching for Python you always dreamed of."
+* [pampy](https://github.com/santinic/pampy) ⭐ 3,522 | 🐛 23 | 🌐 Python | 📅 2025-01-16 ★3526 - "Pampy: The Pattern Matching for Python you always dreamed of."
 * [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ⭐ 161 | 🐛 12 | 🌐 Python | 📅 2026-09-01 ★161 - "Python pattern matching like functional languages."
 * [apm](https://github.com/scravy/awesome-pattern-matching) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2023-03-29 ★113 - "Pattern Matching for Python 3.8+ in a simple, yet powerful, extensible manner."
 * [patmat](https://github.com/admk/patmat) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2016-05-23 ★29 - "Functional-style recursive pattern matching in Python. Crazy stuff."
@@ -167,12 +167,12 @@ Note: Pattern matching is now a standard feature in [Python 3.10](https://www.py
 
 #### Lenses and declarative data manipulations
 
-* [Glom](https://github.com/mahmoud/glom) ⭐ 2,163 | 🐛 133 | 🌐 Python | 📅 2026-09-08 ★2151 - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
+* [Glom](https://github.com/mahmoud/glom) ⭐ 2,163 | 🐛 132 | 🌐 Python | 📅 2026-09-08 ★2151 - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
 * [python-lenses](https://github.com/ingolemo/python-lenses) ⭐ 337 | 🐛 4 | 🌐 Python | 📅 2023-11-15 ★337 - "A python lens library for manipulating deeply nested immutable structures".
 
 #### Other / specialized
 
-* [deal](https://github.com/orsinium/deal) ⭐ 911 | 🐛 8 | 🌐 Python | 📅 2025-11-30 ★899 - "Design by contract for Python with many validators support."
+* [deal](https://github.com/orsinium/deal) ⭐ 912 | 🐛 8 | 🌐 Python | 📅 2025-11-30 ★899 - "Design by contract for Python with many validators support."
 * [classes](https://github.com/dry-python/classes) ⭐ 730 | 🐛 37 | 🌐 Python | 📅 2024-12-17 ★730 - "Smart, pythonic, ad-hoc, typed polymorphism for Python."
 * [chainable](https://github.com/olirice/chainable) ⭐ 196 | 🐛 0 | 🌐 Python | 📅 2026-07-26 ★195 - "Method chaining built on generators".
 * [ADT](https://github.com/jspahrsummers/adt) ⚠️ Archived ★171 - Algebraic data types for Python
@@ -194,7 +194,7 @@ Functional programming languages that are not Python but are related to the Pyth
 
 #### Dead languages
 
-* [pixie](https://github.com/pixie-lang/pixie) ⭐ 2,357 | 🐛 55 | 🌐 Python | 📅 2020-10-28 ★2359 - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
+* [pixie](https://github.com/pixie-lang/pixie) ⭐ 2,356 | 🐛 55 | 🌐 Python | 📅 2020-10-28 ★2359 - "A lightweight and native lisp built in RPython". ([Discussion on HN](https://news.ycombinator.com/item?id=13420092))
 * [Mochi](https://github.com/i2y/mochi) ⭐ 913 | 🐛 14 | 🌐 Python | 📅 2016-07-07 ★913 - "A dynamically typed programming language for functional programming and actor-style programming.".
 * [dg (aka dogelang)](https://github.com/pyos/dg) ⭐ 576 | 🐛 17 | 🌐 Python | 📅 2020-06-20 ★580 - "A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3."
 * [Pycket](https://github.com/pycket/pycket) ⭐ 280 | 🐛 51 | 🌐 Python | 📅 2025-08-26 ★275 - "A rudimentary Racket implementation using RPython".
@@ -206,4 +206,4 @@ Functional programming languages that are not Python but are related to the Pyth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
