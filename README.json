@@ -23,7 +23,7 @@
                     "open_issues": 138,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5156,
+                    "stars": 5155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -41,7 +41,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-10T19:13:53Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4089,
@@ -65,7 +65,7 @@
                     "open_issues": 15,
                     "owner": "Suor",
                     "repo": "funcy",
-                    "stars": 3508,
+                    "stars": 3507,
                     "topics": [
                       "functional-programming",
                       "python",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-12T00:51:10Z",
+                    "last_commit": "2026-09-13T13:51:04Z",
                     "open_issues": 14,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -1638,7 +1638,7 @@
                     "open_issues": 9,
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5437,
+                    "stars": 5438,
                     "topics": [
                       "compiler",
                       "hy",
@@ -1698,7 +1698,7 @@
                     "open_issues": 47,
                     "owner": "basilisp-lang",
                     "repo": "basilisp",
-                    "stars": 477,
+                    "stars": 478,
                     "topics": [
                       "clojure",
                       "lisp",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:07:27.972Z",
+    "last_updated": "2026-09-13T17:24:05.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1911,7 +1911,7 @@
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
-      "stars": 2557,
+      "stars": 2558,
       "topics": [
         "awesome",
         "functional-programming",

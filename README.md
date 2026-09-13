@@ -94,9 +94,9 @@
 
 #### General
 
-* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,156 | 🐛 138 | 🌐 Python | 📅 2026-01-01 ★5150 - "A functional standard library for Python".
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,089 | 🐛 19 | 🌐 Python | 📅 2026-09-10 ★4077 - "More routines for operating on iterables, beyond itertools".
-* [funcy](https://github.com/suor/funcy) ⭐ 3,508 | 🐛 15 | 🌐 Python | 📅 2026-09-10 ★3505 - "A fancy and practical functional tools".
+* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,155 | 🐛 138 | 🌐 Python | 📅 2026-01-01 ★5150 - "A functional standard library for Python".
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,089 | 🐛 20 | 🌐 Python | 📅 2026-09-10 ★4077 - "More routines for operating on iterables, beyond itertools".
+* [funcy](https://github.com/suor/funcy) ⭐ 3,507 | 🐛 15 | 🌐 Python | 📅 2026-09-10 ★3505 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,367 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3374 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
 * [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,486 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2487 - "Python library for functional programming with collections in a data pipeline style".
 * [Pipe](https://github.com/JulienPalard/Pipe) ⭐ 2,107 | 🐛 16 | 🌐 Python | 📅 2025-03-23 ★2103 - "A Python library to use infix notation in Python".
@@ -114,7 +114,7 @@
 * [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 105 | 🐛 17 | 🌐 Python | 📅 2026-08-25 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
 * [ziopy](https://github.com/miiohio/ziopy) ⭐ 86 | 🐛 2 | 🌐 Python | 📅 2023-11-15 ★86 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
 * [katharos](https://github.com/kamalfarahani/katharos) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-09-06 ★32 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
-* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 73 | 🐛 14 | 🌐 Python | 📅 2026-09-12 ★59 - "Iterator, Result and Option written in Rust, for Python"
+* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 73 | 🐛 14 | 🌐 Python | 📅 2026-09-13 ★59 - "Iterator, Result and Option written in Rust, for Python"
 * [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-04-13 ★36 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 * [pyeffects](https://github.com/vickumar1981/pyeffects) ⭐ 34 | 🐛 13 | 🌐 Python | 📅 2024-07-15 ★34 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 * [Compose](https://github.com/mentalisttraceur/python-compose) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-09-27 ★34 - The classic compose, with all the Pythonic features.
@@ -188,9 +188,9 @@ Functional programming languages that are not Python but are related to the Pyth
 
 #### Active languages
 
-* [Hy](https://github.com/hylang/hy) ⭐ 5,437 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
+* [Hy](https://github.com/hylang/hy) ⭐ 5,438 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
 * [Coconut](https://github.com/evhub/coconut) ⭐ 4,355 | 🐛 90 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
-* [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 477 | 🐛 47 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
+* [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 478 | 🐛 47 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
 #### Dead languages
 
@@ -206,4 +206,4 @@ Functional programming languages that are not Python but are related to the Pyth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
