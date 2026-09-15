@@ -44,7 +44,7 @@
                     "open_issues": 16,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4089,
+                    "stars": 4090,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -61,11 +61,11 @@
                     "id": 6198326,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-10T09:02:34Z",
+                    "last_commit": "2026-09-15T07:44:10Z",
                     "open_issues": 15,
                     "owner": "Suor",
                     "repo": "funcy",
-                    "stars": 3507,
+                    "stars": 3508,
                     "topics": [
                       "functional-programming",
                       "python",
@@ -111,7 +111,7 @@
                     "open_issues": 12,
                     "owner": "EntilZha",
                     "repo": "PyFunctional",
-                    "stars": 2486,
+                    "stars": 2485,
                     "topics": [
                       "data",
                       "datascience",
@@ -446,7 +446,7 @@
                     "id": 142169961,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-14T11:08:56Z",
+                    "last_commit": "2026-09-15T15:20:56Z",
                     "open_issues": 17,
                     "owner": "Technologicat",
                     "repo": "unpythonic",
@@ -509,7 +509,7 @@
                     "id": 1069680821,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T15:24:49Z",
+                    "last_commit": "2026-09-15T09:37:57Z",
                     "open_issues": 0,
                     "owner": "kamalfarahani",
                     "repo": "katharos",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T18:52:22Z",
+                    "last_commit": "2026-09-15T16:15:25Z",
                     "open_issues": 15,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -713,11 +713,11 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-14T15:10:24Z",
+                    "last_commit": "2026-09-15T08:14:37Z",
                     "open_issues": 81,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4363,
+                    "stars": 4364,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -897,7 +897,7 @@
                     "open_issues": 39,
                     "owner": "tobgu",
                     "repo": "pyrsistent",
-                    "stars": 2200,
+                    "stars": 2201,
                     "topics": [
                       "datastructures",
                       "functional",
@@ -923,7 +923,7 @@
                     "open_issues": 12,
                     "owner": "MagicStack",
                     "repo": "immutables",
-                    "stars": 1203,
+                    "stars": 1204,
                     "topics": [
                       "frozen",
                       "hamt",
@@ -1209,7 +1209,7 @@
                     "open_issues": 41,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
-                    "stars": 5017,
+                    "stars": 5016,
                     "topics": [
                       "python",
                       "reactive",
@@ -1638,7 +1638,7 @@
                     "open_issues": 9,
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5438,
+                    "stars": 5439,
                     "topics": [
                       "compiler",
                       "hy",
@@ -1666,7 +1666,7 @@
                     "open_issues": 90,
                     "owner": "evhub",
                     "repo": "coconut",
-                    "stars": 4355,
+                    "stars": 4357,
                     "topics": [
                       "coconut",
                       "compiler",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:20:30.621Z",
+    "last_updated": "2026-09-15T18:10:33.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
