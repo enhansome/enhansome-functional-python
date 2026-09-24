@@ -94,7 +94,7 @@
 
 #### General
 
-* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 135 | 🌐 Python | 📅 2026-09-18 ★5150 - "A functional standard library for Python".
+* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,159 | 🐛 135 | 🌐 Python | 📅 2026-09-18 ★5150 - "A functional standard library for Python".
 * [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,095 | 🐛 11 | 🌐 Python | 📅 2026-09-21 ★4077 - "More routines for operating on iterables, beyond itertools".
 * [funcy](https://github.com/suor/funcy) ⭐ 3,511 | 🐛 9 | 🌐 Python | 📅 2026-09-19 ★3505 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,367 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3374 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
@@ -113,8 +113,8 @@
 * [Phi](https://github.com/cgarciae/phi) ⭐ 136 | 🐛 1 | 🌐 Python | 📅 2018-08-13 ★136 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
 * [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 105 | 🐛 17 | 🌐 Python | 📅 2026-09-20 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
 * [ziopy](https://github.com/miiohio/ziopy) ⭐ 86 | 🐛 2 | 🌐 Python | 📅 2023-11-15 ★86 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
-* [katharos](https://github.com/kamalfarahani/katharos) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2026-09-15 ★32 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
-* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 74 | 🐛 15 | 🌐 Python | 📅 2026-09-23 ★59 - "Iterator, Result and Option written in Rust, for Python"
+* [katharos](https://github.com/kamalfarahani/katharos) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-09-15 ★32 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
+* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 75 | 🐛 15 | 🌐 Python | 📅 2026-09-24 ★59 - "Iterator, Result and Option written in Rust, for Python"
 * [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-04-13 ★36 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 * [pyeffects](https://github.com/vickumar1981/pyeffects) ⭐ 34 | 🐛 13 | 🌐 Python | 📅 2024-07-15 ★34 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 * [Compose](https://github.com/mentalisttraceur/python-compose) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-09-27 ★34 - The classic compose, with all the Pythonic features.
@@ -123,7 +123,7 @@
 
 #### Return types
 
-* [returns](https://github.com/dry-python/returns) ⭐ 4,366 | 🐛 81 | 🌐 Python | 📅 2026-09-23 ★4309 - "Make your functions return something meaningful, typed, and safe!"
+* [returns](https://github.com/dry-python/returns) ⭐ 4,367 | 🐛 81 | 🌐 Python | 📅 2026-09-24 ★4309 - "Make your functions return something meaningful, typed, and safe!"
 * [result](https://github.com/rustedpy/result) ⚠️ Archived ★1693 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
 * [Option](https://github.com/MaT1g3R/option) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2024-01-01 ★103 - Rust-like Option and Result types in Python.
 * [Meiga](https://github.com/alice-biometrics/meiga) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2024-10-22 ★82 - A simple, typed and monad-based Result type for Python.
@@ -132,7 +132,7 @@
 
 #### Immutable / persistent data structures
 
-* [Pyrsistent](https://github.com/tobgu/pyrsistent) ⭐ 2,201 | 🐛 41 | 🌐 Python | 📅 2026-01-31 ★2186 - "Persistent/Immutable/Functional data structures for Python".
+* [Pyrsistent](https://github.com/tobgu/pyrsistent) ⭐ 2,202 | 🐛 41 | 🌐 Python | 📅 2026-01-31 ★2186 - "Persistent/Immutable/Functional data structures for Python".
 * [Immutables](https://github.com/MagicStack/immutables) ⭐ 1,203 | 🐛 12 | 🌐 C | 📅 2025-05-20 ★1205 - "An immutable mapping type for Python."
 
 Dead projects:
@@ -189,7 +189,7 @@ Functional programming languages that are not Python but are related to the Pyth
 #### Active languages
 
 * [Hy](https://github.com/hylang/hy) ⭐ 5,438 | 🐛 9 | 🌐 Python | 📅 2026-07-31 ★5424 - "A dialect of Lisp that's embedded in Python".
-* [Coconut](https://github.com/evhub/coconut) ⭐ 4,356 | 🐛 91 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
+* [Coconut](https://github.com/evhub/coconut) ⭐ 4,357 | 🐛 91 | 🌐 Python | 📅 2026-02-16 ★4337 - "Simple, elegant, Pythonic functional programming".
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 479 | 🐛 47 | 🌐 Python | 📅 2026-08-02 ★469 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
 #### Dead languages
@@ -206,4 +206,4 @@ Functional programming languages that are not Python but are related to the Pyth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
