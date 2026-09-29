@@ -41,7 +41,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-27T11:14:32Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4096,
@@ -62,7 +62,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-27T09:37:49Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "Suor",
                     "repo": "funcy",
                     "stars": 3511,
@@ -90,7 +90,7 @@
                     "open_issues": 33,
                     "owner": "kachayev",
                     "repo": "fn.py",
-                    "stars": 3367,
+                    "stars": 3368,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T11:14:59Z",
+                    "last_commit": "2026-09-29T18:42:15Z",
                     "open_issues": 17,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -713,11 +713,11 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-24T14:42:05Z",
+                    "last_commit": "2026-09-28T22:08:16Z",
                     "open_issues": 81,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4368,
+                    "stars": 4369,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -1047,7 +1047,7 @@
                     "open_issues": 23,
                     "owner": "santinic",
                     "repo": "pampy",
-                    "stars": 3520,
+                    "stars": 3521,
                     "topics": [
                       "functional",
                       "lisp-interpreter",
@@ -1635,10 +1635,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-31T17:41:02Z",
-                    "open_issues": 11,
+                    "open_issues": 10,
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5438,
+                    "stars": 5439,
                     "topics": [
                       "compiler",
                       "hy",
@@ -1666,7 +1666,7 @@
                     "open_issues": 91,
                     "owner": "evhub",
                     "repo": "coconut",
-                    "stars": 4357,
+                    "stars": 4358,
                     "topics": [
                       "coconut",
                       "compiler",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:32:29.586Z",
+    "last_updated": "2026-09-29T19:24:32.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
