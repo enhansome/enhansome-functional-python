@@ -23,7 +23,7 @@
                     "open_issues": 135,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5160,
+                    "stars": 5156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -40,8 +40,8 @@
                     "id": 4144530,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-27T11:14:32Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-09-29T20:28:23Z",
+                    "open_issues": 8,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4096,
@@ -65,7 +65,7 @@
                     "open_issues": 7,
                     "owner": "Suor",
                     "repo": "funcy",
-                    "stars": 3511,
+                    "stars": 3509,
                     "topics": [
                       "functional-programming",
                       "python",
@@ -541,8 +541,8 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T18:42:15Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-09-30T08:46:15Z",
+                    "open_issues": 20,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 75,
@@ -713,11 +713,11 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-28T22:08:16Z",
-                    "open_issues": 81,
+                    "last_commit": "2026-09-30T16:16:46Z",
+                    "open_issues": 82,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4369,
+                    "stars": 4367,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -894,7 +894,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-31T05:46:07Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "tobgu",
                     "repo": "pyrsistent",
                     "stars": 2202,
@@ -1409,7 +1409,7 @@
                     "open_issues": 37,
                     "owner": "dry-python",
                     "repo": "classes",
-                    "stars": 731,
+                    "stars": 730,
                     "topics": [
                       "fp",
                       "mypy",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:24:32.830Z",
+    "last_updated": "2026-09-30T19:17:00.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1911,7 +1911,7 @@
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
-      "stars": 2559,
+      "stars": 2558,
       "topics": [
         "awesome",
         "functional-programming",
