@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "toolz",
-                  "description": "★5150 - \"A functional standard library for Python\".",
+                  "description": "★5157 - \"A functional standard library for Python\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-18T17:06:26Z",
-                    "open_issues": 135,
+                    "open_issues": 136,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5156,
+                    "stars": 5157,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -31,7 +31,7 @@
                 {
                   "node_type": "item",
                   "title": "more-itertools",
-                  "description": "★4077 - \"More routines for operating on iterables, beyond itertools\".",
+                  "description": "★4097 - \"More routines for operating on iterables, beyond itertools\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -52,7 +52,7 @@
                 {
                   "node_type": "item",
                   "title": "funcy",
-                  "description": "★3505 - \"A fancy and practical functional tools\".",
+                  "description": "★3510 - \"A fancy and practical functional tools\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -65,7 +65,7 @@
                     "open_issues": 7,
                     "owner": "Suor",
                     "repo": "funcy",
-                    "stars": 3509,
+                    "stars": 3510,
                     "topics": [
                       "functional-programming",
                       "python",
@@ -77,7 +77,7 @@
                 {
                   "node_type": "item",
                   "title": "fn.py",
-                  "description": "★3374 - \"Functional programming in Python: implementation of missing features to enjoy FP\" (unmaintained since 2014). Unmaintained fork.",
+                  "description": "★3368 - \"Functional programming in Python: implementation of missing features to enjoy FP\" (unmaintained since 2014). Unmaintained fork.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -98,7 +98,7 @@
                 {
                   "node_type": "item",
                   "title": "PyFunctional",
-                  "description": "★2487 - \"Python library for functional programming with collections in a data pipeline style\".",
+                  "description": "★2486 - \"Python library for functional programming with collections in a data pipeline style\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -125,7 +125,7 @@
                 {
                   "node_type": "item",
                   "title": "Pipe",
-                  "description": "★2103 - \"A Python library to use infix notation in Python\".",
+                  "description": "★2112 - \"A Python library to use infix notation in Python\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -146,7 +146,7 @@
                 {
                   "node_type": "item",
                   "title": "Pydash",
-                  "description": "★1443 - \"The kitchen sink of Python utility libraries for doing \"stuff\" in a functional way. Based on the Lo-Dash Javascript library\".",
+                  "description": "★1449 - \"The kitchen sink of Python utility libraries for doing \"stuff\" in a functional way. Based on the Lo-Dash Javascript library\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -156,7 +156,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-27T13:37:26Z",
-                    "open_issues": 5,
+                    "open_issues": 8,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1449,
@@ -194,7 +194,7 @@
                 {
                   "node_type": "item",
                   "title": "Expression",
-                  "description": "★755 - \"Pragmatic functional programming for Python inspired by F#\". Successor of OSlash.",
+                  "description": "★777 - \"Pragmatic functional programming for Python inspired by F#\". Successor of OSlash.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -221,7 +221,7 @@
                 {
                   "node_type": "item",
                   "title": "OSlash",
-                  "description": "★748 - \"Functors, Applicatives, And Monads in Python\".",
+                  "description": "★757 - \"Functors, Applicatives, And Monads in Python\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -248,7 +248,7 @@
                 {
                   "node_type": "item",
                   "title": "Effect",
-                  "description": "★384 - \"Effect isolation in Python, to facilitate more purely functional code\".",
+                  "description": "★386 - \"Effect isolation in Python, to facilitate more purely functional code\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -274,7 +274,7 @@
                 {
                   "node_type": "item",
                   "title": "Underscore.py",
-                  "description": "★292 - \"A Python port of excellent javascript library underscore.js\".",
+                  "description": "★291 - \"A Python port of excellent javascript library underscore.js\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -304,7 +304,7 @@
                 {
                   "node_type": "item",
                   "title": "fnc",
-                  "description": "★277 - \"Functional programming in Python with generators and other utilities\".",
+                  "description": "★278 - \"Functional programming in Python with generators and other utilities\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -350,7 +350,7 @@
                 {
                   "node_type": "item",
                   "title": "Flupy",
-                  "description": "★195 - Implements a fluent interface for operating on python iterables.",
+                  "description": "★196 - Implements a fluent interface for operating on python iterables.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -376,7 +376,7 @@
                 {
                   "node_type": "item",
                   "title": "pfun",
-                  "description": "★157 - \"Pure functional programming in python\".",
+                  "description": "★156 - \"Pure functional programming in python\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -500,7 +500,7 @@
                 {
                   "node_type": "item",
                   "title": "katharos",
-                  "description": "★32 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.",
+                  "description": "★82 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -532,7 +532,7 @@
                 {
                   "node_type": "item",
                   "title": "pyochain",
-                  "description": "★59 - \"Iterator, Result and Option written in Rust, for Python\"",
+                  "description": "★76 - \"Iterator, Result and Option written in Rust, for Python\"",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -541,11 +541,11 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T19:10:37Z",
+                    "last_commit": "2026-10-02T19:13:38Z",
                     "open_issues": 21,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": [
                       "functional-programming",
                       "iterator",
@@ -704,7 +704,7 @@
                 {
                   "node_type": "item",
                   "title": "returns",
-                  "description": "★4309 - \"Make your functions return something meaningful, typed, and safe!\"",
+                  "description": "★4372 - \"Make your functions return something meaningful, typed, and safe!\"",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -713,11 +713,11 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-09-30T16:16:46Z",
-                    "open_issues": 81,
+                    "last_commit": "2026-10-02T14:13:11Z",
+                    "open_issues": 82,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4370,
+                    "stars": 4372,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -737,7 +737,7 @@
                 {
                   "node_type": "item",
                   "title": "result",
-                  "description": "★1693 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.",
+                  "description": "★1680 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -824,7 +824,7 @@
                 {
                   "node_type": "item",
                   "title": "maybe",
-                  "description": "★72 - (Unmaintained) A simple Rust like Maybe type for Python 3. Fully type annotated.",
+                  "description": "★73 - (Unmaintained) A simple Rust like Maybe type for Python 3. Fully type annotated.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -884,7 +884,7 @@
                 {
                   "node_type": "item",
                   "title": "Pyrsistent",
-                  "description": "★2186 - \"Persistent/Immutable/Functional data structures for Python\".",
+                  "description": "★2203 - \"Persistent/Immutable/Functional data structures for Python\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1034,7 +1034,7 @@
                 {
                   "node_type": "item",
                   "title": "pampy",
-                  "description": "★3526 - \"Pampy: The Pattern Matching for Python you always dreamed of.\"",
+                  "description": "★3521 - \"Pampy: The Pattern Matching for Python you always dreamed of.\"",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1196,7 +1196,7 @@
                 {
                   "node_type": "item",
                   "title": "RxPy",
-                  "description": "★5015 - \"Reactive Extensions for Python\".",
+                  "description": "★5016 - \"Reactive Extensions for Python\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1283,7 +1283,7 @@
                 {
                   "node_type": "item",
                   "title": "Glom",
-                  "description": "★2151 - \"Python's nested data operator (and CLI), for all your declarative restructuring needs.\".",
+                  "description": "★2167 - \"Python's nested data operator (and CLI), for all your declarative restructuring needs.\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1296,7 +1296,7 @@
                     "open_issues": 136,
                     "owner": "mahmoud",
                     "repo": "glom",
-                    "stars": 2165,
+                    "stars": 2167,
                     "topics": [
                       "apis",
                       "cli",
@@ -1354,7 +1354,7 @@
                 {
                   "node_type": "item",
                   "title": "deal",
-                  "description": "★899 - \"Design by contract for Python with many validators support.\"",
+                  "description": "★916 - \"Design by contract for Python with many validators support.\"",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1396,7 +1396,7 @@
                 {
                   "node_type": "item",
                   "title": "classes",
-                  "description": "★730 - \"Smart, pythonic, ad-hoc, typed polymorphism for Python.\"",
+                  "description": "★731 - \"Smart, pythonic, ad-hoc, typed polymorphism for Python.\"",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1409,7 +1409,7 @@
                     "open_issues": 37,
                     "owner": "dry-python",
                     "repo": "classes",
-                    "stars": 730,
+                    "stars": 731,
                     "topics": [
                       "fp",
                       "mypy",
@@ -1427,7 +1427,7 @@
                 {
                   "node_type": "item",
                   "title": "chainable",
-                  "description": "★195 - \"Method chaining built on generators\".",
+                  "description": "★196 - \"Method chaining built on generators\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1453,7 +1453,7 @@
                 {
                   "node_type": "item",
                   "title": "ADT",
-                  "description": "★171 - Algebraic data types for Python",
+                  "description": "★173 - Algebraic data types for Python",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1534,7 +1534,7 @@
                 {
                   "node_type": "item",
                   "title": "slist",
-                  "description": "★13 - \"A drop-in replacement for the python mutable list. But with much more methods for typesafe method chaining.\"",
+                  "description": "★12 - \"A drop-in replacement for the python mutable list. But with much more methods for typesafe method chaining.\"",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1625,7 +1625,7 @@
                 {
                   "node_type": "item",
                   "title": "Hy",
-                  "description": "★5424 - \"A dialect of Lisp that's embedded in Python\".",
+                  "description": "★5437 - \"A dialect of Lisp that's embedded in Python\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1638,7 +1638,7 @@
                     "open_issues": 10,
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5436,
+                    "stars": 5437,
                     "topics": [
                       "compiler",
                       "hy",
@@ -1653,7 +1653,7 @@
                 {
                   "node_type": "item",
                   "title": "Coconut",
-                  "description": "★4337 - \"Simple, elegant, Pythonic functional programming\".",
+                  "description": "★4356 - \"Simple, elegant, Pythonic functional programming\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1666,7 +1666,7 @@
                     "open_issues": 91,
                     "owner": "evhub",
                     "repo": "coconut",
-                    "stars": 4358,
+                    "stars": 4356,
                     "topics": [
                       "coconut",
                       "compiler",
@@ -1685,7 +1685,7 @@
                 {
                   "node_type": "item",
                   "title": "Basilisp",
-                  "description": "★469 - \"A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+\".",
+                  "description": "★480 - \"A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1717,7 +1717,7 @@
                 {
                   "node_type": "item",
                   "title": "pixie",
-                  "description": "★2359 - \"A lightweight and native lisp built in RPython\". (Discussion on HN)",
+                  "description": "★2357 - \"A lightweight and native lisp built in RPython\". (Discussion on HN)",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1759,7 +1759,7 @@
                 {
                   "node_type": "item",
                   "title": "dg (aka dogelang)",
-                  "description": "★580 - \"A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3.\"",
+                  "description": "★577 - \"A programming language that compiles to CPython bytecode, much like Scala compiles to JVM's. That essentially means that dg is an alternative syntax for Python 3.\"",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1784,7 +1784,7 @@
                 {
                   "node_type": "item",
                   "title": "Pycket",
-                  "description": "★275 - \"A rudimentary Racket implementation using RPython\".",
+                  "description": "★280 - \"A rudimentary Racket implementation using RPython\".",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1810,7 +1810,7 @@
                 {
                   "node_type": "item",
                   "title": "Tydy",
-                  "description": "★52 - \"Tydy is a statically typed, functional-first programming language in the ML tradition. tydy is an implementation of Tydy as a Python library.\"",
+                  "description": "★53 - \"Tydy is a statically typed, functional-first programming language in the ML tradition. tydy is an implementation of Tydy as a Python library.\"",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:30:55.401Z",
+    "last_updated": "2026-10-02T19:16:39.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1907,7 +1907,7 @@
       "id": 76450431,
       "language": null,
       "license": null,
-      "last_commit": "2026-06-23T05:10:14Z",
+      "last_commit": "2026-10-02T17:24:22Z",
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
@@ -1918,7 +1918,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "eb0300692e04c7d549f0de521d931f62196dadf4",
+    "original_repository_sha": "ccbb36b900e86315d189890beea9cc6bcaf8c4a7",
     "enhanced_repository": "enhansome/enhansome-functional-python",
     "enhanced_repository_description": null,
     "title": "Awesome functional python with stars"
