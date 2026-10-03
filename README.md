@@ -94,8 +94,8 @@
 
 #### General
 
-* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 136 | 🌐 Python | 📅 2026-09-18 ★5157 - "A functional standard library for Python".
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,097 | 🐛 8 | 🌐 Python | 📅 2026-09-29 ★4097 - "More routines for operating on iterables, beyond itertools".
+* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 138 | 🌐 Python | 📅 2026-09-18 ★5157 - "A functional standard library for Python".
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,097 | 🐛 9 | 🌐 Python | 📅 2026-09-29 ★4097 - "More routines for operating on iterables, beyond itertools".
 * [funcy](https://github.com/suor/funcy) ⭐ 3,510 | 🐛 7 | 🌐 Python | 📅 2026-09-27 ★3510 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,368 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3368 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
 * [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,486 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2486 - "Python library for functional programming with collections in a data pipeline style".
@@ -123,7 +123,7 @@
 
 #### Return types
 
-* [returns](https://github.com/dry-python/returns) ⭐ 4,372 | 🐛 82 | 🌐 Python | 📅 2026-10-02 ★4372 - "Make your functions return something meaningful, typed, and safe!"
+* [returns](https://github.com/dry-python/returns) ⭐ 4,372 | 🐛 81 | 🌐 Python | 📅 2026-10-02 ★4372 - "Make your functions return something meaningful, typed, and safe!"
 * [result](https://github.com/rustedpy/result) ⚠️ Archived ★1680 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
 * [Option](https://github.com/MaT1g3R/option) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2024-01-01 ★103 - Rust-like Option and Result types in Python.
 * [Meiga](https://github.com/alice-biometrics/meiga) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2024-10-22 ★82 - A simple, typed and monad-based Result type for Python.
@@ -189,7 +189,7 @@ Functional programming languages that are not Python but are related to the Pyth
 #### Active languages
 
 * [Hy](https://github.com/hylang/hy) ⭐ 5,437 | 🐛 10 | 🌐 Python | 📅 2026-07-31 ★5437 - "A dialect of Lisp that's embedded in Python".
-* [Coconut](https://github.com/evhub/coconut) ⭐ 4,356 | 🐛 91 | 🌐 Python | 📅 2026-02-16 ★4356 - "Simple, elegant, Pythonic functional programming".
+* [Coconut](https://github.com/evhub/coconut) ⭐ 4,355 | 🐛 91 | 🌐 Python | 📅 2026-02-16 ★4356 - "Simple, elegant, Pythonic functional programming".
 * [Basilisp](https://github.com/basilisp-lang/basilisp) ⭐ 480 | 🐛 47 | 🌐 Python | 📅 2026-08-02 ★480 - "A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+".
 
 #### Dead languages
@@ -206,4 +206,4 @@ Functional programming languages that are not Python but are related to the Pyth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
