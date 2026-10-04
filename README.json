@@ -23,7 +23,7 @@
                     "open_issues": 138,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5156,
+                    "stars": 5157,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -41,7 +41,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-29T20:28:23Z",
-                    "open_issues": 9,
+                    "open_issues": 8,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4098,
@@ -155,8 +155,8 @@
                     "id": 10047126,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T17:53:08Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-04T15:49:02Z",
+                    "open_issues": 3,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1449,
@@ -234,7 +234,7 @@
                     "open_issues": 4,
                     "owner": "dbrattli",
                     "repo": "OSlash",
-                    "stars": 757,
+                    "stars": 756,
                     "topics": [
                       "functors",
                       "monad-tutorial",
@@ -492,7 +492,7 @@
                     "open_issues": 2,
                     "owner": "miiohio",
                     "repo": "ziopy",
-                    "stars": 86,
+                    "stars": 87,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T12:27:51Z",
+                    "last_commit": "2026-10-04T15:57:39Z",
                     "open_issues": 21,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -717,7 +717,7 @@
                     "open_issues": 81,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4373,
+                    "stars": 4375,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -1296,7 +1296,7 @@
                     "open_issues": 136,
                     "owner": "mahmoud",
                     "repo": "glom",
-                    "stars": 2168,
+                    "stars": 2169,
                     "topics": [
                       "apis",
                       "cli",
@@ -1409,7 +1409,7 @@
                     "open_issues": 37,
                     "owner": "dry-python",
                     "repo": "classes",
-                    "stars": 731,
+                    "stars": 732,
                     "topics": [
                       "fp",
                       "mypy",
@@ -1751,7 +1751,7 @@
                     "open_issues": 14,
                     "owner": "i2y",
                     "repo": "mochi",
-                    "stars": 913,
+                    "stars": 914,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -1879,7 +1879,7 @@
                     "open_issues": 3,
                     "owner": "vindarel",
                     "repo": "languages-that-compile-to-python",
-                    "stars": 283,
+                    "stars": 284,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:56:12.138Z",
+    "last_updated": "2026-10-04T18:09:00.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
