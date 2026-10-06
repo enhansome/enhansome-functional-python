@@ -44,7 +44,7 @@
                     "open_issues": 8,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4098,
+                    "stars": 4097,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -509,7 +509,7 @@
                     "id": 1069680821,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T09:37:57Z",
+                    "last_commit": "2026-10-06T10:23:33Z",
                     "open_issues": 0,
                     "owner": "kamalfarahani",
                     "repo": "katharos",
@@ -541,8 +541,8 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T20:14:32Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-10-05T23:48:49Z",
+                    "open_issues": 20,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 77,
@@ -713,8 +713,8 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-10-05T14:26:25Z",
-                    "open_issues": 81,
+                    "last_commit": "2026-10-05T23:27:36Z",
+                    "open_issues": 83,
                     "owner": "dry-python",
                     "repo": "returns",
                     "stars": 4375,
@@ -1205,8 +1205,8 @@
                     "id": 8946089,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T03:08:11Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-10-06T05:55:43Z",
+                    "open_issues": 42,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
                     "stars": 5017,
@@ -1638,7 +1638,7 @@
                     "open_issues": 10,
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5437,
+                    "stars": 5438,
                     "topics": [
                       "compiler",
                       "hy",
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:28:55.323Z",
+    "last_updated": "2026-10-06T10:24:30.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1911,7 +1911,7 @@
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
-      "stars": 2559,
+      "stars": 2560,
       "topics": [
         "awesome",
         "functional-programming",
