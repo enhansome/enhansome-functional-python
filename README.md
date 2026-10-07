@@ -94,13 +94,13 @@
 
 #### General
 
-* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 138 | 🌐 Python | 📅 2026-09-18 ★5157 - "A functional standard library for Python".
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,097 | 🐛 8 | 🌐 Python | 📅 2026-09-29 ★4097 - "More routines for operating on iterables, beyond itertools".
+* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,158 | 🐛 139 | 🌐 Python | 📅 2026-10-07 ★5157 - "A functional standard library for Python".
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,097 | 🐛 9 | 🌐 Python | 📅 2026-10-07 ★4097 - "More routines for operating on iterables, beyond itertools".
 * [funcy](https://github.com/suor/funcy) ⭐ 3,510 | 🐛 9 | 🌐 Python | 📅 2026-10-05 ★3510 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,368 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3368 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
 * [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,487 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2486 - "Python library for functional programming with collections in a data pipeline style".
 * [Pipe](https://github.com/JulienPalard/Pipe) ⭐ 2,113 | 🐛 17 | 🌐 Python | 📅 2025-03-23 ★2112 - "A Python library to use infix notation in Python".
-* [Pydash](https://github.com/dgilland/pydash) ⭐ 1,449 | 🐛 7 | 🌐 Python | 📅 2026-10-06 ★1449 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
+* [Pydash](https://github.com/dgilland/pydash) ⭐ 1,449 | 🐛 5 | 🌐 Python | 📅 2026-10-07 ★1449 - "The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library".
 * [hask](https://github.com/billpmurphy/hask) ⭐ 876 | 🐛 13 | 🌐 Python | 📅 2018-08-08 ★876 - "Haskell language features and standard libraries in pure Python".
 * [Expression](https://github.com/cognitedata/Expression) ⭐ 779 | 🐛 8 | 🌐 Python | 📅 2026-10-05 ★777 - "Pragmatic functional programming for Python inspired by F#". Successor of OSlash.
 * [OSlash](https://github.com/dbrattli/oslash) ⭐ 756 | 🐛 4 | 🌐 Python | 📅 2025-11-17 ★757 - "Functors, Applicatives, And Monads in Python".
@@ -108,13 +108,13 @@
 * [Underscore.py](https://github.com/serkanyersen/underscore.py) ⭐ 291 | 🐛 13 | 🌐 Python | 📅 2023-01-02 ★291 - "A Python port of excellent javascript library underscore.js".
 * [fnc](https://github.com/dgilland/fnc) ⭐ 278 | 🐛 0 | 🌐 Python | 📅 2023-10-03 ★278 - "Functional programming in Python with generators and other utilities".
 * [PyMonad](https://github.com/jasondelaat/pymonad) ⭐ 211 | 🐛 14 | 🌐 Python | 📅 2024-05-04 ★211 - "a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs".
-* [Flupy](https://github.com/olirice/flupy) ⭐ 196 | 🐛 0 | 🌐 Python | 📅 2026-07-26 ★196 - Implements a fluent interface for operating on python iterables.
+* [Flupy](https://github.com/olirice/flupy) ⭐ 196 | 🐛 1 | 🌐 Python | 📅 2026-10-07 ★196 - Implements a fluent interface for operating on python iterables.
 * [pfun](https://github.com/suned/pfun) ⭐ 156 | 🐛 14 | 🌐 Python | 📅 2023-11-20 ★156 - "Pure functional programming in python".
 * [Phi](https://github.com/cgarciae/phi) ⭐ 136 | 🐛 1 | 🌐 Python | 📅 2018-08-13 ★136 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
-* [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 105 | 🐛 17 | 🌐 Python | 📅 2026-09-20 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
+* [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 105 | 🐛 17 | 🌐 Python | 📅 2026-10-07 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
+* [katharos](https://github.com/kamalfarahani/katharos) ⭐ 98 | 🐛 0 | 🌐 Python | 📅 2026-10-07 ★82 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
 * [ziopy](https://github.com/miiohio/ziopy) ⭐ 87 | 🐛 2 | 🌐 Python | 📅 2023-11-15 ★86 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
-* [katharos](https://github.com/kamalfarahani/katharos) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-10-06 ★82 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a `@do` decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.
-* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 77 | 🐛 20 | 🌐 Python | 📅 2026-10-06 ★76 - "Iterator, Result and Option written in Rust, for Python"
+* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 77 | 🐛 21 | 🌐 Python | 📅 2026-10-07 ★76 - "Iterator, Result and Option written in Rust, for Python"
 * [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-04-13 ★36 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 * [pyeffects](https://github.com/vickumar1981/pyeffects) ⭐ 34 | 🐛 13 | 🌐 Python | 📅 2024-07-15 ★34 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 * [Compose](https://github.com/mentalisttraceur/python-compose) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-09-27 ★34 - The classic compose, with all the Pythonic features.
@@ -123,7 +123,7 @@
 
 #### Return types
 
-* [returns](https://github.com/dry-python/returns) ⭐ 4,375 | 🐛 81 | 🌐 Python | 📅 2026-10-06 ★4372 - "Make your functions return something meaningful, typed, and safe!"
+* [returns](https://github.com/dry-python/returns) ⭐ 4,375 | 🐛 83 | 🌐 Python | 📅 2026-10-06 ★4372 - "Make your functions return something meaningful, typed, and safe!"
 * [result](https://github.com/rustedpy/result) ⚠️ Archived ★1680 - (Unmaintained) A simple Rust like Result type for Python 3. Fully type annotated.
 * [Option](https://github.com/MaT1g3R/option) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2024-01-01 ★103 - Rust-like Option and Result types in Python.
 * [Meiga](https://github.com/alice-biometrics/meiga) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2024-10-22 ★82 - A simple, typed and monad-based Result type for Python.
@@ -148,7 +148,7 @@ Dead projects:
 Note: Pattern matching is now a standard feature in [Python 3.10](https://www.python.org/dev/peps/pep-0636/).
 
 * [pampy](https://github.com/santinic/pampy) ⭐ 3,522 | 🐛 23 | 🌐 Python | 📅 2025-01-16 ★3521 - "Pampy: The Pattern Matching for Python you always dreamed of."
-* [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ⭐ 161 | 🐛 12 | 🌐 Python | 📅 2026-09-01 ★161 - "Python pattern matching like functional languages."
+* [python-pattern-matching](https://github.com/grantjenks/python-pattern-matching) ⭐ 161 | 🐛 13 | 🌐 Python | 📅 2026-10-07 ★161 - "Python pattern matching like functional languages."
 * [apm](https://github.com/scravy/awesome-pattern-matching) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2023-03-29 ★113 - "Pattern Matching for Python 3.8+ in a simple, yet powerful, extensible manner."
 * [patmat](https://github.com/admk/patmat) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2016-05-23 ★29 - "Functional-style recursive pattern matching in Python. Crazy stuff."
 
@@ -161,20 +161,20 @@ Note: Pattern matching is now a standard feature in [Python 3.10](https://www.py
 
 #### Support for reactive style
 
-* [RxPy](https://github.com/ReactiveX/RxPY) ⭐ 5,017 | 🐛 42 | 🌐 Python | 📅 2026-10-06 ★5016 - "Reactive Extensions for Python".
+* [RxPy](https://github.com/ReactiveX/RxPY) ⭐ 5,016 | 🐛 42 | 🌐 Python | 📅 2026-10-06 ★5016 - "Reactive Extensions for Python".
 * [broqer](https://github.com/semiversus/python-broqer) ⭐ 76 | 🐛 9 | 🌐 Python | 📅 2026-09-11 ★76 - "Library to operate with continuous streams of data in a reactive style"
 * [sodium-python](https://github.com/mode89/sodium-python) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-07-18 ★6 - "Python implementation of Sodium - Functional Reactive Programming (FRP) Library"
 
 #### Lenses and declarative data manipulations
 
-* [Glom](https://github.com/mahmoud/glom) ⭐ 2,170 | 🐛 136 | 🌐 Python | 📅 2026-09-08 ★2167 - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
+* [Glom](https://github.com/mahmoud/glom) ⭐ 2,170 | 🐛 137 | 🌐 Python | 📅 2026-09-08 ★2167 - "Python's nested data operator (and CLI), for all your declarative restructuring needs.".
 * [python-lenses](https://github.com/ingolemo/python-lenses) ⭐ 337 | 🐛 4 | 🌐 Python | 📅 2023-11-15 ★337 - "A python lens library for manipulating deeply nested immutable structures".
 
 #### Other / specialized
 
 * [deal](https://github.com/orsinium/deal) ⭐ 916 | 🐛 8 | 🌐 Python | 📅 2025-11-30 ★916 - "Design by contract for Python with many validators support."
 * [classes](https://github.com/dry-python/classes) ⭐ 732 | 🐛 37 | 🌐 Python | 📅 2024-12-17 ★731 - "Smart, pythonic, ad-hoc, typed polymorphism for Python."
-* [chainable](https://github.com/olirice/chainable) ⭐ 196 | 🐛 0 | 🌐 Python | 📅 2026-07-26 ★196 - "Method chaining built on generators".
+* [chainable](https://github.com/olirice/chainable) ⭐ 196 | 🐛 1 | 🌐 Python | 📅 2026-10-07 ★196 - "Method chaining built on generators".
 * [ADT](https://github.com/jspahrsummers/adt) ⚠️ Archived ★173 - Algebraic data types for Python
 * [sumtypes](https://github.com/radix/sumtypes) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2021-11-30 ★44 - "Sum Types, aka Tagged Unions, for Python".
 * [python-mini-lambda](https://github.com/smarie/python-mini-lambda) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2020-04-24 ★14 - "Simple Lambda functions without lambda x: and with string conversion capability"
@@ -206,4 +206,4 @@ Functional programming languages that are not Python but are related to the Pyth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
