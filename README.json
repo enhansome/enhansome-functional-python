@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-07T04:15:32Z",
-                    "open_issues": 143,
+                    "open_issues": 144,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5158,
+                    "stars": 5160,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -44,7 +44,7 @@
                     "open_issues": 18,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4100,
+                    "stars": 4099,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -62,7 +62,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-13T06:41:26Z",
-                    "open_issues": 17,
+                    "open_issues": 19,
                     "owner": "Suor",
                     "repo": "funcy",
                     "stars": 3507,
@@ -90,7 +90,7 @@
                     "open_issues": 33,
                     "owner": "kachayev",
                     "repo": "fn.py",
-                    "stars": 3371,
+                    "stars": 3372,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -138,7 +138,7 @@
                     "open_issues": 17,
                     "owner": "JulienPalard",
                     "repo": "Pipe",
-                    "stars": 2113,
+                    "stars": 2114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -155,8 +155,8 @@
                     "id": 10047126,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T14:47:22Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-18T00:16:42Z",
+                    "open_issues": 12,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1447,
@@ -389,7 +389,7 @@
                     "open_issues": 1,
                     "owner": "kamalfarahani",
                     "repo": "katharos",
-                    "stars": 194,
+                    "stars": 195,
                     "topics": [
                       "applicative-functors",
                       "communicating-sequential-processes",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T23:47:42Z",
+                    "last_commit": "2026-10-18T14:15:15Z",
                     "open_issues": 25,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -1206,7 +1206,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-16T10:15:03Z",
-                    "open_issues": 38,
+                    "open_issues": 39,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
                     "stars": 5019,
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:07:57.110Z",
+    "last_updated": "2026-10-18T17:20:31.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
