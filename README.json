@@ -23,7 +23,7 @@
                     "open_issues": 144,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5160,
+                    "stars": 5161,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-14T18:51:51Z",
-                    "open_issues": 18,
+                    "open_issues": 16,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4099,
+                    "stars": 4101,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -62,7 +62,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-13T06:41:26Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "Suor",
                     "repo": "funcy",
                     "stars": 3507,
@@ -155,11 +155,11 @@
                     "id": 10047126,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T00:16:42Z",
+                    "last_commit": "2026-10-18T18:41:28Z",
                     "open_issues": 12,
                     "owner": "dgilland",
                     "repo": "pydash",
-                    "stars": 1447,
+                    "stars": 1448,
                     "topics": [
                       "functional",
                       "lodash",
@@ -203,8 +203,8 @@
                     "id": 298085065,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-12T08:06:20Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-19T13:10:56Z",
+                    "open_issues": 7,
                     "owner": "dbrattli",
                     "repo": "Expression",
                     "stars": 782,
@@ -349,6 +349,38 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "katharos",
+                  "description": "★82 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A functional programming and concurrency library for Python: algebraic abstractions (Semigroups, Monoids, Functors, Applicatives, Monads), immutable data types, and message-passing concurrency, all designed as composable, type-safe values.",
+                    "homepage": "https://katharos.readthedocs.io/",
+                    "id": 1069680821,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-08T11:44:18Z",
+                    "open_issues": 1,
+                    "owner": "kamalfarahani",
+                    "repo": "katharos",
+                    "stars": 199,
+                    "topics": [
+                      "applicative-functors",
+                      "communicating-sequential-processes",
+                      "csp",
+                      "functional-programming",
+                      "functor",
+                      "monads",
+                      "monoid",
+                      "python",
+                      "python-csp",
+                      "semigroup"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T23:32:49.282Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Flupy",
                   "description": "★196 - Implements a fluent interface for operating on python iterables.",
                   "children": [],
@@ -369,38 +401,6 @@
                       "data-pipeline",
                       "fluent",
                       "python"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:32:49.282Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "katharos",
-                  "description": "★82 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A functional programming and concurrency library for Python: algebraic abstractions (Semigroups, Monoids, Functors, Applicatives, Monads), immutable data types, and message-passing concurrency, all designed as composable, type-safe values.",
-                    "homepage": "https://katharos.readthedocs.io/",
-                    "id": 1069680821,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-08T11:44:18Z",
-                    "open_issues": 1,
-                    "owner": "kamalfarahani",
-                    "repo": "katharos",
-                    "stars": 195,
-                    "topics": [
-                      "applicative-functors",
-                      "communicating-sequential-processes",
-                      "csp",
-                      "functional-programming",
-                      "functor",
-                      "monads",
-                      "monoid",
-                      "python",
-                      "python-csp",
-                      "semigroup"
                     ]
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -478,8 +478,8 @@
                     "id": 142169961,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-10T22:22:50Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-19T05:35:59Z",
+                    "open_issues": 17,
                     "owner": "Technologicat",
                     "repo": "unpythonic",
                     "stars": 107,
@@ -554,7 +554,12 @@
                       "pyo3-rust-bindings",
                       "python",
                       "result-type",
-                      "rust"
+                      "rust",
+                      "sorted-arrays",
+                      "sorted-lists",
+                      "sortedcontainers",
+                      "sortedlist",
+                      "sortedset"
                     ]
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -713,7 +718,7 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-10-16T22:06:27Z",
+                    "last_commit": "2026-10-19T16:19:31Z",
                     "open_issues": 82,
                     "owner": "dry-python",
                     "repo": "returns",
@@ -1205,8 +1210,8 @@
                     "id": 8946089,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T10:15:03Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-10-19T03:07:34Z",
+                    "open_issues": 43,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
                     "stars": 5019,
@@ -1899,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:20:31.678Z",
+    "last_updated": "2026-10-19T19:53:54.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
