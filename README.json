@@ -111,7 +111,7 @@
                     "open_issues": 12,
                     "owner": "EntilZha",
                     "repo": "PyFunctional",
-                    "stars": 2487,
+                    "stars": 2486,
                     "topics": [
                       "data",
                       "datascience",
@@ -138,7 +138,7 @@
                     "open_issues": 17,
                     "owner": "JulienPalard",
                     "repo": "Pipe",
-                    "stars": 2114,
+                    "stars": 2113,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -155,8 +155,8 @@
                     "id": 10047126,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T18:41:28Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-10-20T21:57:56Z",
+                    "open_issues": 8,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1449,
@@ -207,7 +207,7 @@
                     "open_issues": 7,
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 783,
+                    "stars": 784,
                     "topics": [
                       "fsharp",
                       "functional-programming",
@@ -363,7 +363,7 @@
                     "open_issues": 1,
                     "owner": "kamalfarahani",
                     "repo": "katharos",
-                    "stars": 202,
+                    "stars": 203,
                     "topics": [
                       "applicative-functors",
                       "communicating-sequential-processes",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T14:15:15Z",
+                    "last_commit": "2026-10-21T12:58:18Z",
                     "open_issues": 25,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -718,7 +718,7 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-10-20T07:08:52Z",
+                    "last_commit": "2026-10-21T15:04:32Z",
                     "open_issues": 82,
                     "owner": "dry-python",
                     "repo": "returns",
@@ -1211,10 +1211,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-19T03:07:34Z",
-                    "open_issues": 46,
+                    "open_issues": 48,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
-                    "stars": 5019,
+                    "stars": 5020,
                     "topics": [
                       "python",
                       "reactive",
@@ -1640,7 +1640,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-16T14:13:22Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "hylang",
                     "repo": "hy",
                     "stars": 5439,
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:27:12.125Z",
+    "last_updated": "2026-10-21T18:35:54.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1916,7 +1916,7 @@
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
-      "stars": 2564,
+      "stars": 2565,
       "topics": [
         "awesome",
         "functional-programming",
