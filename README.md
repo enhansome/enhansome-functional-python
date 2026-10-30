@@ -95,7 +95,7 @@
 #### General
 
 * [toolz](https://github.com/pytoolz/toolz) ⭐ 5,161 | 🐛 150 | 🌐 Python | 📅 2026-10-07 ★5157 - "A functional standard library for Python".
-* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,103 | 🐛 22 | 🌐 Python | 📅 2026-10-14 ★4097 - "More routines for operating on iterables, beyond itertools".
+* [more-itertools](https://github.com/erikrose/more-itertools) ⭐ 4,104 | 🐛 17 | 🌐 Python | 📅 2026-10-30 ★4097 - "More routines for operating on iterables, beyond itertools".
 * [funcy](https://github.com/suor/funcy) ⭐ 3,506 | 🐛 23 | 🌐 Python | 📅 2026-10-26 ★3510 - "A fancy and practical functional tools".
 * [fn.py](https://github.com/kachayev/fn.py) ⭐ 3,371 | 🐛 33 | 🌐 Python | 📅 2022-08-30 ★3368 - "Functional programming in Python: implementation of missing features to enjoy FP" (unmaintained since 2014). [Unmaintained fork](https://github.com/fnpy/fn.py) ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2023-06-14.
 * [PyFunctional](https://github.com/EntilZha/PyFunctional) ⭐ 2,484 | 🐛 12 | 🌐 Python | 📅 2025-03-13 ★2486 - "Python library for functional programming with collections in a data pipeline style".
@@ -114,7 +114,7 @@
 * [Phi](https://github.com/cgarciae/phi) ⭐ 137 | 🐛 1 | 🌐 Python | 📅 2018-08-13 ★136 - "A library that intends to remove as much of the pain as possible from your functional programming experience in Python."
 * [unpythonic](https://github.com/Technologicat/unpythonic) ⭐ 107 | 🐛 17 | 🌐 Python | 📅 2026-10-26 ★105 - "Supercharge your Python with parts of Lisp and Haskell."
 * [ziopy](https://github.com/miiohio/ziopy) ⭐ 87 | 🐛 2 | 🌐 Python | 📅 2023-11-15 ★86 - "ZIO for Python (with ZIO = A type-safe, composable library for async and concurrent programming in Scala)"
-* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 79 | 🐛 24 | 🌐 Python | 📅 2026-10-29 ★76 - "Iterator, Result and Option written in Rust, for Python"
+* [pyochain](https://github.com/OutSquareCapital/pyochain) ⭐ 79 | 🐛 24 | 🌐 Python | 📅 2026-10-30 ★76 - "Iterator, Result and Option written in Rust, for Python"
 * [pyMonet](https://github.com/przemyslawjanpietrzak/pyMonet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-04-13 ★36 - "High abstract python library for functional programming. Contains algebraic data structures known from Haskell or Scala".
 * [pyeffects](https://github.com/vickumar1981/pyeffects) ⭐ 34 | 🐛 13 | 🌐 Python | 📅 2024-07-15 ★34 - "Handle side-effects in Python like a boss. Implements functional types for Either, Option, Try, and Future."
 * [Compose](https://github.com/mentalisttraceur/python-compose) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-09-27 ★34 - The classic compose, with all the Pythonic features.
@@ -172,7 +172,7 @@ Note: Pattern matching is now a standard feature in [Python 3.10](https://www.py
 
 #### Other / specialized
 
-* [deal](https://github.com/orsinium/deal) ⭐ 919 | 🐛 9 | 🌐 Python | 📅 2025-11-30 ★916 - "Design by contract for Python with many validators support."
+* [deal](https://github.com/orsinium/deal) ⭐ 920 | 🐛 9 | 🌐 Python | 📅 2025-11-30 ★916 - "Design by contract for Python with many validators support."
 * [classes](https://github.com/dry-python/classes) ⭐ 731 | 🐛 39 | 🌐 Python | 📅 2024-12-17 ★731 - "Smart, pythonic, ad-hoc, typed polymorphism for Python."
 * [chainable](https://github.com/olirice/chainable) ⭐ 196 | 🐛 1 | 🌐 Python | 📅 2026-10-25 ★196 - "Method chaining built on generators".
 * [ADT](https://github.com/jspahrsummers/adt) ⚠️ Archived ★173 - Algebraic data types for Python
@@ -206,4 +206,4 @@ Functional programming languages that are not Python but are related to the Pyth
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

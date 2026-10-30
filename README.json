@@ -40,11 +40,11 @@
                     "id": 4144530,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T18:51:51Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-10-30T14:50:27Z",
+                    "open_issues": 17,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4103,
+                    "stars": 4104,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T19:27:26Z",
+                    "last_commit": "2026-10-30T17:00:47Z",
                     "open_issues": 24,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -1210,7 +1210,7 @@
                     "id": 8946089,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T07:59:12Z",
+                    "last_commit": "2026-10-29T20:31:29Z",
                     "open_issues": 32,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
@@ -1372,7 +1372,7 @@
                     "open_issues": 9,
                     "owner": "life4",
                     "repo": "deal",
-                    "stars": 919,
+                    "stars": 920,
                     "topics": [
                       "contracts",
                       "contracts-programming",
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:36:39.407Z",
+    "last_updated": "2026-10-30T19:19:32.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
