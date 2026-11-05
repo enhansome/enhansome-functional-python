@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-07T04:15:32Z",
-                    "open_issues": 152,
+                    "open_issues": 154,
                     "owner": "pytoolz",
                     "repo": "toolz",
                     "stars": 5160,
@@ -41,7 +41,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-04T00:20:44Z",
-                    "open_issues": 17,
+                    "open_issues": 19,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4104,
@@ -90,7 +90,7 @@
                     "open_issues": 33,
                     "owner": "kachayev",
                     "repo": "fn.py",
-                    "stars": 3370,
+                    "stars": 3369,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -155,8 +155,8 @@
                     "id": 10047126,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T01:33:46Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-11-05T02:42:18Z",
+                    "open_issues": 4,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1450,
@@ -207,7 +207,7 @@
                     "open_issues": 6,
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 784,
+                    "stars": 783,
                     "topics": [
                       "fsharp",
                       "functional-programming",
@@ -234,7 +234,7 @@
                     "open_issues": 3,
                     "owner": "dbrattli",
                     "repo": "OSlash",
-                    "stars": 756,
+                    "stars": 754,
                     "topics": [
                       "functors",
                       "monad-tutorial",
@@ -338,11 +338,11 @@
                     "id": 1069680821,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T14:11:14Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-05T12:45:46Z",
+                    "open_issues": 1,
                     "owner": "kamalfarahani",
                     "repo": "katharos",
-                    "stars": 229,
+                    "stars": 228,
                     "topics": [
                       "applicative-functors",
                       "communicating-sequential-processes",
@@ -374,7 +374,7 @@
                     "open_issues": 14,
                     "owner": "jasondelaat",
                     "repo": "pymonad",
-                    "stars": 211,
+                    "stars": 210,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -541,8 +541,8 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-04T17:02:26Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-11-05T20:28:45Z",
+                    "open_issues": 25,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
                     "stars": 78,
@@ -718,11 +718,11 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-11-04T14:43:01Z",
+                    "last_commit": "2026-11-05T15:13:10Z",
                     "open_issues": 77,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4386,
+                    "stars": 4385,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -902,7 +902,7 @@
                     "open_issues": 48,
                     "owner": "tobgu",
                     "repo": "pyrsistent",
-                    "stars": 2204,
+                    "stars": 2202,
                     "topics": [
                       "datastructures",
                       "functional",
@@ -1414,7 +1414,7 @@
                     "open_issues": 39,
                     "owner": "dry-python",
                     "repo": "classes",
-                    "stars": 732,
+                    "stars": 731,
                     "topics": [
                       "fp",
                       "mypy",
@@ -1643,7 +1643,7 @@
                     "open_issues": 10,
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5444,
+                    "stars": 5445,
                     "topics": [
                       "compiler",
                       "hy",
@@ -1703,7 +1703,7 @@
                     "open_issues": 49,
                     "owner": "basilisp-lang",
                     "repo": "basilisp",
-                    "stars": 482,
+                    "stars": 483,
                     "topics": [
                       "clojure",
                       "lisp",
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:48:55.598Z",
+    "last_updated": "2026-11-05T21:04:17.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1916,7 +1916,7 @@
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
-      "stars": 2566,
+      "stars": 2565,
       "topics": [
         "awesome",
         "functional-programming",
