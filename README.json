@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-04T00:20:44Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4104,
+                    "stars": 4105,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -65,7 +65,7 @@
                     "open_issues": 25,
                     "owner": "Suor",
                     "repo": "funcy",
-                    "stars": 3506,
+                    "stars": 3507,
                     "topics": [
                       "functional-programming",
                       "python",
@@ -156,7 +156,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-05T02:42:18Z",
-                    "open_issues": 10,
+                    "open_issues": 13,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1450,
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T14:32:55Z",
+                    "last_commit": "2026-11-07T18:02:59Z",
                     "open_issues": 24,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -722,7 +722,7 @@
                     "open_issues": 77,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4386,
+                    "stars": 4387,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -1671,7 +1671,7 @@
                     "open_issues": 92,
                     "owner": "evhub",
                     "repo": "coconut",
-                    "stars": 4357,
+                    "stars": 4358,
                     "topics": [
                       "coconut",
                       "compiler",
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:26:01.332Z",
+    "last_updated": "2026-11-07T18:44:55.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
