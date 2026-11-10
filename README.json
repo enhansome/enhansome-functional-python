@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-07T04:15:32Z",
-                    "open_issues": 154,
+                    "open_issues": 155,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5159,
+                    "stars": 5160,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -40,8 +40,8 @@
                     "id": 4144530,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T15:09:17Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-11-10T15:12:15Z",
+                    "open_issues": 22,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
                     "stars": 4105,
@@ -65,7 +65,7 @@
                     "open_issues": 25,
                     "owner": "Suor",
                     "repo": "funcy",
-                    "stars": 3507,
+                    "stars": 3508,
                     "topics": [
                       "functional-programming",
                       "python",
@@ -90,7 +90,7 @@
                     "open_issues": 33,
                     "owner": "kachayev",
                     "repo": "fn.py",
-                    "stars": 3368,
+                    "stars": 3367,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -156,7 +156,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-05T02:42:18Z",
-                    "open_issues": 29,
+                    "open_issues": 31,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1450,
@@ -186,7 +186,7 @@
                     "open_issues": 13,
                     "owner": "billpmurphy",
                     "repo": "hask",
-                    "stars": 876,
+                    "stars": 877,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -207,7 +207,7 @@
                     "open_issues": 6,
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 785,
+                    "stars": 786,
                     "topics": [
                       "fsharp",
                       "functional-programming",
@@ -234,7 +234,7 @@
                     "open_issues": 3,
                     "owner": "dbrattli",
                     "repo": "OSlash",
-                    "stars": 754,
+                    "stars": 755,
                     "topics": [
                       "functors",
                       "monad-tutorial",
@@ -261,7 +261,7 @@
                     "open_issues": 11,
                     "owner": "python-effect",
                     "repo": "effect",
-                    "stars": 388,
+                    "stars": 389,
                     "topics": [
                       "effects",
                       "free-monad",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T20:22:26Z",
+                    "last_commit": "2026-11-10T17:37:12Z",
                     "open_issues": 24,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -718,7 +718,7 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-11-09T22:01:52Z",
+                    "last_commit": "2026-11-10T15:33:26Z",
                     "open_issues": 77,
                     "owner": "dry-python",
                     "repo": "returns",
@@ -1333,7 +1333,7 @@
                     "open_issues": 4,
                     "owner": "ingolemo",
                     "repo": "python-lenses",
-                    "stars": 337,
+                    "stars": 338,
                     "topics": [
                       "functional-optics",
                       "functional-programming",
@@ -1372,7 +1372,7 @@
                     "open_issues": 9,
                     "owner": "life4",
                     "repo": "deal",
-                    "stars": 920,
+                    "stars": 921,
                     "topics": [
                       "contracts",
                       "contracts-programming",
@@ -1414,7 +1414,7 @@
                     "open_issues": 39,
                     "owner": "dry-python",
                     "repo": "classes",
-                    "stars": 732,
+                    "stars": 733,
                     "topics": [
                       "fp",
                       "mypy",
@@ -1703,7 +1703,7 @@
                     "open_issues": 49,
                     "owner": "basilisp-lang",
                     "repo": "basilisp",
-                    "stars": 484,
+                    "stars": 485,
                     "topics": [
                       "clojure",
                       "lisp",
@@ -1777,7 +1777,7 @@
                     "open_issues": 17,
                     "owner": "pyos",
                     "repo": "dg",
-                    "stars": 577,
+                    "stars": 578,
                     "topics": [
                       "language",
                       "programming-language",
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:25:47.334Z",
+    "last_updated": "2026-11-10T20:48:19.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
