@@ -40,11 +40,11 @@
                     "id": 4144530,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T15:12:15Z",
+                    "last_commit": "2026-11-17T20:19:45Z",
                     "open_issues": 27,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4106,
+                    "stars": 4105,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -90,7 +90,7 @@
                     "open_issues": 33,
                     "owner": "kachayev",
                     "repo": "fn.py",
-                    "stars": 3366,
+                    "stars": 3365,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -156,7 +156,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-15T20:06:15Z",
-                    "open_issues": 6,
+                    "open_issues": 12,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1450,
@@ -203,7 +203,7 @@
                     "id": 298085065,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-15T17:48:54Z",
+                    "last_commit": "2026-11-17T21:53:29Z",
                     "open_issues": 6,
                     "owner": "dbrattli",
                     "repo": "Expression",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T18:37:48Z",
+                    "last_commit": "2026-11-17T16:40:05Z",
                     "open_issues": 24,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -902,7 +902,7 @@
                     "open_issues": 49,
                     "owner": "tobgu",
                     "repo": "pyrsistent",
-                    "stars": 2202,
+                    "stars": 2201,
                     "topics": [
                       "datastructures",
                       "functional",
@@ -1214,7 +1214,7 @@
                     "open_issues": 30,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
-                    "stars": 5018,
+                    "stars": 5019,
                     "topics": [
                       "python",
                       "reactive",
@@ -1372,7 +1372,7 @@
                     "open_issues": 9,
                     "owner": "life4",
                     "repo": "deal",
-                    "stars": 923,
+                    "stars": 924,
                     "topics": [
                       "contracts",
                       "contracts-programming",
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:22:46.445Z",
+    "last_updated": "2026-11-17T22:18:13.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1916,7 +1916,7 @@
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
-      "stars": 2565,
+      "stars": 2566,
       "topics": [
         "awesome",
         "functional-programming",
