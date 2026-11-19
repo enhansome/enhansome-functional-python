@@ -23,7 +23,7 @@
                     "open_issues": 158,
                     "owner": "pytoolz",
                     "repo": "toolz",
-                    "stars": 5161,
+                    "stars": 5160,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -40,11 +40,11 @@
                     "id": 4144530,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T22:49:38Z",
+                    "last_commit": "2026-11-19T15:27:32Z",
                     "open_issues": 24,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4105,
+                    "stars": 4106,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -65,7 +65,7 @@
                     "open_issues": 29,
                     "owner": "Suor",
                     "repo": "funcy",
-                    "stars": 3508,
+                    "stars": 3507,
                     "topics": [
                       "functional-programming",
                       "python",
@@ -90,7 +90,7 @@
                     "open_issues": 33,
                     "owner": "kachayev",
                     "repo": "fn.py",
-                    "stars": 3365,
+                    "stars": 3364,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -108,10 +108,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-03-13T23:26:42Z",
-                    "open_issues": 13,
+                    "open_issues": 12,
                     "owner": "EntilZha",
                     "repo": "PyFunctional",
-                    "stars": 2485,
+                    "stars": 2484,
                     "topics": [
                       "data",
                       "datascience",
@@ -138,7 +138,7 @@
                     "open_issues": 17,
                     "owner": "JulienPalard",
                     "repo": "Pipe",
-                    "stars": 2113,
+                    "stars": 2112,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -156,10 +156,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-15T20:06:15Z",
-                    "open_issues": 14,
+                    "open_issues": 16,
                     "owner": "dgilland",
                     "repo": "pydash",
-                    "stars": 1450,
+                    "stars": 1449,
                     "topics": [
                       "functional",
                       "lodash",
@@ -186,7 +186,7 @@
                     "open_issues": 13,
                     "owner": "billpmurphy",
                     "repo": "hask",
-                    "stars": 878,
+                    "stars": 876,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -207,7 +207,7 @@
                     "open_issues": 6,
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 787,
+                    "stars": 786,
                     "topics": [
                       "fsharp",
                       "functional-programming",
@@ -234,7 +234,7 @@
                     "open_issues": 2,
                     "owner": "dbrattli",
                     "repo": "OSlash",
-                    "stars": 754,
+                    "stars": 755,
                     "topics": [
                       "functors",
                       "monad-tutorial",
@@ -261,7 +261,7 @@
                     "open_issues": 11,
                     "owner": "python-effect",
                     "repo": "effect",
-                    "stars": 389,
+                    "stars": 388,
                     "topics": [
                       "effects",
                       "free-monad",
@@ -328,38 +328,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "katharos",
-                  "description": "★82 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A functional programming and concurrency library for Python: algebraic abstractions (Semigroups, Monoids, Functors, Applicatives, Monads), immutable data types, and message-passing concurrency, all designed as composable, type-safe values.",
-                    "homepage": "https://katharos.readthedocs.io/",
-                    "id": 1069680821,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-11-15T21:12:15Z",
-                    "open_issues": 1,
-                    "owner": "kamalfarahani",
-                    "repo": "katharos",
-                    "stars": 220,
-                    "topics": [
-                      "applicative-functors",
-                      "communicating-sequential-processes",
-                      "csp",
-                      "functional-programming",
-                      "functor",
-                      "monads",
-                      "monoid",
-                      "python",
-                      "python-csp",
-                      "semigroup"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:32:49.282Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "PyMonad",
                   "description": "★211 - \"a small library implementing monads and related data abstractions -- functors, applicative functors, and monoids -- for use in implementing functional style programs\".",
                   "children": [],
@@ -376,6 +344,38 @@
                     "repo": "pymonad",
                     "stars": 210,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:32:49.282Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "katharos",
+                  "description": "★82 - Typed Haskell-style functional programming library providing algebraic abstractions (Functor, Applicative, Monad, Semigroup, Monoid) with concrete types, do-notation via a decorator, and operator overloading for monadic bind, applicative apply, semigroup combine.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A functional programming and concurrency library for Python: algebraic abstractions (Semigroups, Monoids, Functors, Applicatives, Monads), immutable data types, and message-passing concurrency, all designed as composable, type-safe values.",
+                    "homepage": "https://katharos.readthedocs.io/",
+                    "id": 1069680821,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-15T21:12:15Z",
+                    "open_issues": 1,
+                    "owner": "kamalfarahani",
+                    "repo": "katharos",
+                    "stars": 209,
+                    "topics": [
+                      "applicative-functors",
+                      "communicating-sequential-processes",
+                      "csp",
+                      "functional-programming",
+                      "functor",
+                      "monads",
+                      "monoid",
+                      "python",
+                      "python-csp",
+                      "semigroup"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
                 },
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T20:37:32Z",
+                    "last_commit": "2026-11-19T11:34:12Z",
                     "open_issues": 22,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -722,7 +722,7 @@
                     "open_issues": 77,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4387,
+                    "stars": 4386,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -755,7 +755,7 @@
                     "open_issues": 1,
                     "owner": "rustedpy",
                     "repo": "result",
-                    "stars": 1678,
+                    "stars": 1677,
                     "topics": [
                       "functional-programming",
                       "mypy",
@@ -902,7 +902,7 @@
                     "open_issues": 48,
                     "owner": "tobgu",
                     "repo": "pyrsistent",
-                    "stars": 2201,
+                    "stars": 2200,
                     "topics": [
                       "datastructures",
                       "functional",
@@ -928,7 +928,7 @@
                     "open_issues": 13,
                     "owner": "MagicStack",
                     "repo": "immutables",
-                    "stars": 1205,
+                    "stars": 1204,
                     "topics": [
                       "frozen",
                       "hamt",
@@ -1052,7 +1052,7 @@
                     "open_issues": 23,
                     "owner": "santinic",
                     "repo": "pampy",
-                    "stars": 3521,
+                    "stars": 3520,
                     "topics": [
                       "functional",
                       "lisp-interpreter",
@@ -1210,7 +1210,7 @@
                     "id": 8946089,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T07:57:42Z",
+                    "last_commit": "2026-11-19T15:25:01Z",
                     "open_issues": 30,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
@@ -1301,7 +1301,7 @@
                     "open_issues": 150,
                     "owner": "mahmoud",
                     "repo": "glom",
-                    "stars": 2170,
+                    "stars": 2169,
                     "topics": [
                       "apis",
                       "cli",
@@ -1333,7 +1333,7 @@
                     "open_issues": 4,
                     "owner": "ingolemo",
                     "repo": "python-lenses",
-                    "stars": 338,
+                    "stars": 337,
                     "topics": [
                       "functional-optics",
                       "functional-programming",
@@ -1414,7 +1414,7 @@
                     "open_issues": 39,
                     "owner": "dry-python",
                     "repo": "classes",
-                    "stars": 733,
+                    "stars": 732,
                     "topics": [
                       "fp",
                       "mypy",
@@ -1643,7 +1643,7 @@
                     "open_issues": 10,
                     "owner": "hylang",
                     "repo": "hy",
-                    "stars": 5446,
+                    "stars": 5445,
                     "topics": [
                       "compiler",
                       "hy",
@@ -1671,7 +1671,7 @@
                     "open_issues": 92,
                     "owner": "evhub",
                     "repo": "coconut",
-                    "stars": 4356,
+                    "stars": 4355,
                     "topics": [
                       "coconut",
                       "compiler",
@@ -1699,7 +1699,7 @@
                     "id": 133253047,
                     "language": "Python",
                     "license": "EPL-1.0",
-                    "last_commit": "2026-11-16T21:21:23Z",
+                    "last_commit": "2026-11-19T01:29:19Z",
                     "open_issues": 46,
                     "owner": "basilisp-lang",
                     "repo": "basilisp",
@@ -1735,7 +1735,7 @@
                     "open_issues": 55,
                     "owner": "pixie-lang",
                     "repo": "pixie",
-                    "stars": 2352,
+                    "stars": 2351,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -1777,7 +1777,7 @@
                     "open_issues": 17,
                     "owner": "pyos",
                     "repo": "dg",
-                    "stars": 578,
+                    "stars": 577,
                     "topics": [
                       "language",
                       "programming-language",
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:54:05.236Z",
+    "last_updated": "2026-11-19T22:08:08.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
@@ -1916,7 +1916,7 @@
       "open_issues": 8,
       "owner": "sfermigier",
       "repo": "awesome-functional-python",
-      "stars": 2567,
+      "stars": 2566,
       "topics": [
         "awesome",
         "functional-programming",
