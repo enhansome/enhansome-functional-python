@@ -156,7 +156,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-15T20:06:15Z",
-                    "open_issues": 16,
+                    "open_issues": 18,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1449,
@@ -207,7 +207,7 @@
                     "open_issues": 6,
                     "owner": "dbrattli",
                     "repo": "Expression",
-                    "stars": 786,
+                    "stars": 788,
                     "topics": [
                       "fsharp",
                       "functional-programming",
@@ -363,7 +363,7 @@
                     "open_issues": 1,
                     "owner": "kamalfarahani",
                     "repo": "katharos",
-                    "stars": 209,
+                    "stars": 207,
                     "topics": [
                       "applicative-functors",
                       "communicating-sequential-processes",
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-19T11:34:12Z",
+                    "last_commit": "2026-11-20T21:28:04Z",
                     "open_issues": 22,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -718,11 +718,11 @@
                     "id": 167689891,
                     "language": "Python",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-11-18T19:25:30Z",
-                    "open_issues": 77,
+                    "last_commit": "2026-11-20T14:13:24Z",
+                    "open_issues": 78,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4386,
+                    "stars": 4387,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -1211,7 +1211,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-19T15:25:01Z",
-                    "open_issues": 30,
+                    "open_issues": 44,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
                     "stars": 5018,
@@ -1671,7 +1671,7 @@
                     "open_issues": 92,
                     "owner": "evhub",
                     "repo": "coconut",
-                    "stars": 4355,
+                    "stars": 4356,
                     "topics": [
                       "coconut",
                       "compiler",
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:08:08.249Z",
+    "last_updated": "2026-11-20T21:47:15.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
