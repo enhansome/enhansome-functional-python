@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-23T22:48:18Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "more-itertools",
                     "repo": "more-itertools",
-                    "stars": 4106,
+                    "stars": 4108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:32:49.282Z"
@@ -156,7 +156,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-24T01:08:50Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "dgilland",
                     "repo": "pydash",
                     "stars": 1449,
@@ -541,7 +541,7 @@
                     "id": 1012160857,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-23T23:26:59Z",
+                    "last_commit": "2026-11-24T13:52:03Z",
                     "open_issues": 22,
                     "owner": "OutSquareCapital",
                     "repo": "pyochain",
@@ -722,7 +722,7 @@
                     "open_issues": 77,
                     "owner": "dry-python",
                     "repo": "returns",
-                    "stars": 4389,
+                    "stars": 4390,
                     "topics": [
                       "dry-python",
                       "fp",
@@ -1211,10 +1211,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-19T15:25:01Z",
-                    "open_issues": 44,
+                    "open_issues": 46,
                     "owner": "ReactiveX",
                     "repo": "RxPY",
-                    "stars": 5018,
+                    "stars": 5019,
                     "topics": [
                       "python",
                       "reactive",
@@ -1372,7 +1372,7 @@
                     "open_issues": 9,
                     "owner": "life4",
                     "repo": "deal",
-                    "stars": 924,
+                    "stars": 925,
                     "topics": [
                       "contracts",
                       "contracts-programming",
@@ -1699,8 +1699,8 @@
                     "id": 133253047,
                     "language": "Python",
                     "license": "EPL-1.0",
-                    "last_commit": "2026-11-22T18:09:05Z",
-                    "open_issues": 47,
+                    "last_commit": "2026-11-24T03:29:05Z",
+                    "open_issues": 48,
                     "owner": "basilisp-lang",
                     "repo": "basilisp",
                     "stars": 485,
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:39:27.128Z",
+    "last_updated": "2026-11-24T23:28:29.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to functional programming in Python.",
